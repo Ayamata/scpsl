@@ -1,0 +1,88 @@
+# Whether or not this plugin is enabled.
+is_enabled: true
+# Whether or not to display debug messages in the server console.
+debug: false
+# Configs for the item players interact with to become SCP-035.
+scp035_item_config:
+  id: 51
+  name: 'SCP-035'
+  description: 'An item that will quickly kill you and turn you into an SCP.'
+  weight: 0.75
+  spawn_properties:
+    limit: 1
+    dynamic_spawn_points: []
+    static_spawn_points: []
+    role_spawn_points: []
+    room_spawn_points: []
+    locker_spawn_points:
+    - zone: Unspecified
+      use_chamber: false
+      offset:
+        x: 0
+        y: 0
+        z: 0
+      type: Misc
+      chance: 35
+  types:
+  - type: Coin
+    chance: 10
+  - type: Medkit
+    chance: 20
+  - type: Adrenaline
+    chance: 30
+  - type: SCP018
+    chance: 60
+  - type: GrenadeHE
+    chance: 100
+  # How long (in seconds) it takes a player to transform into SCP-035 when they pickup the item. If they drop the item before this timer ends, they will not transform.
+  transformation_delay: 5
+  scale:
+    x: 1
+    y: 1
+    z: 1
+# Configs for the SCP-035 role players turn into.
+scp035_role_config:
+  id: 51
+  visible_role: Scp049
+  max_health: 500
+  name: 'SCP-035'
+  description: 'An SCP who slowly corrodes over time, but is able to use items normally.'
+  custom_info: 'SCP-035'
+  keep_inventory_on_spawn: true
+  movement_multiplier: 1
+  blacklisted_items:
+  - 'SR-119'
+  - 'GL-119'
+  - 'SCP-2818'
+  - 'MicroHID'
+  damage_per_tick: 5
+  cassie_message_on_died: true
+  custom_cassie_message_on_died: ''
+  scale:
+    x: 1.25
+    y: 0.75
+    z: 1
+  is_enabled: true
+  inventory: []
+  ammo: {}
+  min_players: 0
+  keep_position_on_spawn: false
+  removal_kills_player: true
+  keep_role_on_death: false
+  spawn_chance: 0
+  ignore_spawn_system: false
+  keep_role_on_changing_role: false
+  broadcast:
+  # The broadcast content
+    content: ''
+    # The broadcast duration
+    duration: 10
+    # The broadcast type
+    type: Normal
+    # Indicates whether the broadcast should be shown
+    show: true
+  display_custom_item_messages: true
+  gravity: null
+  custom_role_f_f_multiplier: {}
+  console_message: 'You have spawned as a custom role!'
+  ability_usage: 'Enter ".special" in the console to use your ability. If you have multiple abilities, you can use this command to cycle through them, or specify the one to use with ".special ROLENAME AbilityNum"'

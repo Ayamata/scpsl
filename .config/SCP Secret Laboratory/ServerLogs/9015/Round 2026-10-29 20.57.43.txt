@@ -1,0 +1,531 @@
+2026-10-29 20:57:43.201Z | Internal            | Game logic     | Started logging.
+2026-10-29 20:57:43.201Z | Internal            | Game logic     | Game version: 14.2.8.
+2026-10-29 20:57:43.202Z | Internal            | Game logic     | Build type: Release.
+2026-10-29 20:57:43.202Z | Internal            | Game logic     | Build timestamp: 2026-10-12 18:32:38Z.
+2026-10-29 20:57:43.202Z | Internal            | Game logic     | Headless: True.
+2026-10-29 20:57:51.242Z | Connection update   | Networking     | 76561199444892781@steam preauthenticated from endpoint 93.106.2.121:32070.
+2026-10-29 20:57:59.340Z | Connection update   | Networking     | 76561199444892781@steam authenticated from endpoint 93.106.2.121:32070. Player ID assigned: 2. Auth token serial number: mShDxkSU-uKxHVeKn.
+2026-10-29 20:57:59.342Z | Connection update   | Networking     | Nickname of 76561199444892781@steam is now Amaya.
+2026-10-29 20:57:59.348Z | Connection update   | Permissions    | Amaya (76561199444892781@steam) has been assigned to group Weirdo Owner.
+2026-10-29 20:58:30.656Z | Connection update   | Networking     | 76561199486078000@steam preauthenticated from endpoint 85.163.107.250:56715.
+2026-10-29 20:58:36.667Z | Connection update   | Networking     | 76561199486078000@steam authenticated from endpoint 85.163.107.250:56715. Player ID assigned: 3. Auth token serial number: 9E2Wx49g-kJjfmy2K.
+2026-10-29 20:58:36.667Z | Connection update   | Networking     | Nickname of 76561199486078000@steam is now Playgui31.
+2026-10-29 20:58:36.667Z | Connection update   | Permissions    | Playgui31 (76561199486078000@steam) has been assigned to group Admin.
+2026-10-29 20:58:43.631Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) enabled round lock.
+2026-10-29 20:58:43.961Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) enabled lobby lock.
+2026-10-29 20:58:44.528Z | Game Event          | Game logic     | Round has been started.
+2026-10-29 20:58:44.528Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) forced round start.
+2026-10-29 20:58:50.142Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Amaya (76561199444892781@steam) to Tutorial.
+2026-10-29 20:58:50.146Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Playgui31 (76561199486078000@steam) to Tutorial.
+2026-10-29 20:59:21.120Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) disabled noclip for player Playgui31 (76561199486078000@steam) using noclip toggle command.
+2026-10-29 20:59:28.886Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) disabled noclip for player Amaya (76561199444892781@steam) using noclip toggle command.
+2026-10-29 20:59:45.836Z | AdminChat           | Administrative | [Amaya (76561199444892781@steam)] hi
+2026-10-29 20:59:49.569Z | AdminChat           | Administrative | [Amaya (76561199444892781@steam)] hey bitches
+2026-10-29 20:59:49.836Z | AdminChat           | Administrative | [Playgui31 (76561199486078000@steam)] balls
+2026-10-29 20:59:51.669Z | AdminChat           | Administrative | [Amaya (76561199444892781@steam)] stfu
+2026-10-29 20:59:54.836Z | AdminChat           | Administrative | [Amaya (76561199444892781@steam)] im gonna fucking kill u
+2026-10-29 21:00:25.290Z | Remote Admin - Misc | Administrative | Amaya (76561199444892781@steam) has spawned a dummy with the nickname Dummy.
+2026-10-29 21:00:25.290Z | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-10-29 21:00:25.538Z | Remote Admin - Misc | Administrative | Amaya (76561199444892781@steam) has spawned a dummy with the nickname Dummy.
+2026-10-29 21:00:25.539Z | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-10-29 21:00:25.871Z | Remote Admin - Misc | Administrative | Amaya (76561199444892781@steam) has spawned a dummy with the nickname Dummy.
+2026-10-29 21:00:25.872Z | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-10-29 21:00:26.139Z | Remote Admin - Misc | Administrative | Amaya (76561199444892781@steam) has spawned a dummy with the nickname Dummy.
+2026-10-29 21:00:26.139Z | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-10-29 21:00:26.441Z | Remote Admin - Misc | Administrative | Amaya (76561199444892781@steam) has spawned a dummy with the nickname Dummy.
+2026-10-29 21:00:26.441Z | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-10-29 21:00:26.789Z | Remote Admin - Misc | Administrative | Amaya (76561199444892781@steam) has spawned a dummy with the nickname Dummy.
+2026-10-29 21:00:26.789Z | Connection update   | Permissions    | Dummy (ID_Dummy) has been assigned to group Dummy.
+2026-10-29 21:00:33.439Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-10-29 21:00:33.442Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-10-29 21:00:33.444Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-10-29 21:00:33.446Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-10-29 21:00:33.448Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-10-29 21:00:33.450Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Dummy (ID_Dummy) to Tutorial.
+2026-10-29 21:00:49.441Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:00:49.441Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:00:49.441Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.441Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.441Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.441Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.441Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.441Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.639Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:00:49.639Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:00:49.639Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.639Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.639Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.639Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.639Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.639Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.822Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:00:49.822Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:00:49.822Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.822Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.822Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.822Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.822Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:49.822Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.006Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:00:50.006Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:00:50.006Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.006Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.006Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.006Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.006Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.006Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.122Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:00:50.122Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:00:50.122Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.122Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.122Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.122Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.122Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.123Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.272Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:00:50.272Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:00:50.272Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.272Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.272Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.272Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.272Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.272Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.422Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:00:50.422Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:00:50.422Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.422Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.422Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.422Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.422Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.422Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.572Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:00:50.572Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:00:50.572Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.572Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.572Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.572Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.572Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.572Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.755Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:00:50.755Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:00:50.755Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.755Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.755Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.755Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.755Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.755Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.905Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:00:50.905Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:00:50.905Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.905Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.905Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.905Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.905Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:50.905Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:00:53.740Z | Game Event          | Throwable      | Playgui31 (76561199486078000@steam) threw GrenadeHE.
+2026-10-29 21:01:02.996Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) administratively disarmed Amaya (76561199444892781@steam), Playgui31 (76561199486078000@steam), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy).
+2026-10-29 21:01:03.170Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) administratively disarmed Amaya (76561199444892781@steam), Playgui31 (76561199486078000@steam), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy).
+2026-10-29 21:01:03.650Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:03.650Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:03.650Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.650Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.650Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.650Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.651Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.651Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.834Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:03.834Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:03.834Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.834Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.834Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.834Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.834Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.834Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.985Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:03.985Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:03.985Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.985Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.985Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.985Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.985Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:03.985Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.102Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:04.102Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:04.102Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.102Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.102Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.102Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.102Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.102Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.251Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:04.251Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:04.251Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.251Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.251Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.251Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.251Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.251Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.401Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:04.401Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:04.401Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.401Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.401Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.401Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.401Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.401Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.555Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:04.555Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:04.555Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.555Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.555Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.556Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.556Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.556Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.803Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:04.803Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:04.803Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.803Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.803Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.803Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.803Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:04.803Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.404Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:05.404Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:05.404Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.404Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.404Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.404Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.404Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.404Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.569Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:05.569Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:05.569Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.569Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.569Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.569Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.569Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.569Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.702Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:05.702Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:05.702Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.702Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.702Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.702Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.702Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.702Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.853Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:05.853Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:05.853Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.853Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.853Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.853Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.853Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.853Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.969Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:05.969Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:05.969Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.969Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.969Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.969Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.969Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:05.969Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:06.424Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) administratively disarmed Amaya (76561199444892781@steam), Playgui31 (76561199486078000@steam), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy).
+2026-10-29 21:01:07.082Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:07.082Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:07.082Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.082Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.082Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.082Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.082Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.082Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.232Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:07.232Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:07.232Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.232Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.232Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.232Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.232Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.232Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.382Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:07.382Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:07.382Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.382Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.382Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.382Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.382Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.382Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.499Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:07.499Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:07.499Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.499Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.499Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.500Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.500Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.500Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.649Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:07.649Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:07.649Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.649Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.649Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.649Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.649Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.649Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.832Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:07.832Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:07.832Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.832Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.832Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.832Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.832Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.832Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.948Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:07.948Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:07.948Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.948Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.949Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.949Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.949Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:07.949Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.099Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:08.099Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:08.099Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.099Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.099Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.099Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.099Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.099Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.281Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:08.282Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:08.282Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.282Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.282Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.282Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.282Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.282Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.365Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:08.365Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:08.365Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.365Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.365Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.365Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.365Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.365Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:08.854Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) administratively disarmed Amaya (76561199444892781@steam), Playgui31 (76561199486078000@steam), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy).
+2026-10-29 21:01:09.211Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:09.211Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:09.211Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.212Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.212Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.212Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.212Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.212Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.360Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:09.361Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:09.361Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.361Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.361Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.361Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.361Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.361Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.511Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:09.511Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:09.511Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.511Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.511Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.511Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.511Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.511Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.694Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:09.694Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:09.694Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.694Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.694Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.694Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.694Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.694Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.844Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:09.844Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:09.844Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.844Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.844Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.844Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.844Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.844Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.994Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:09.994Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:09.994Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.994Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.994Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.994Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.995Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:09.995Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.145Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:10.145Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:10.145Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.145Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.145Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.145Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.145Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.145Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.295Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:10.295Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:10.295Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.295Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.295Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.295Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.295Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.295Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.445Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:10.445Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:10.445Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.445Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.445Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.445Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.445Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:10.445Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.015Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) administratively disarmed Amaya (76561199444892781@steam), Playgui31 (76561199486078000@steam), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy).
+2026-10-29 21:01:11.564Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:11.565Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:11.565Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.565Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.565Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.565Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.565Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.565Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.715Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:11.715Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:11.715Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.715Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.715Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.715Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.715Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.715Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.897Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:11.897Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:11.897Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.897Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.897Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.897Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.897Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:11.897Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.017Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:12.017Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:12.017Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.017Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.017Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.017Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.017Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.018Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.197Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:12.197Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:12.197Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.198Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.198Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.198Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.198Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.198Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.349Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:12.349Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:12.349Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.349Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.349Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.349Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.349Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.350Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.497Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:12.497Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:12.497Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.497Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.497Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.497Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.497Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.497Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.664Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:12.664Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:12.664Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.664Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.664Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.664Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.665Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.665Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.815Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:12.815Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:12.815Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.815Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.815Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.815Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.815Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.815Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.947Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Amaya (76561199444892781@steam).
+2026-10-29 21:01:12.947Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Playgui31 (76561199486078000@steam).
+2026-10-29 21:01:12.947Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.947Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.947Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.947Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.947Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:12.947Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) gave GrenadeHE to Dummy (ID_Dummy).
+2026-10-29 21:01:13.519Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) administratively disarmed Amaya (76561199444892781@steam), Playgui31 (76561199486078000@steam), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy).
+2026-10-29 21:01:14.001Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) administratively released , Amaya (76561199444892781@steam), Playgui31 (76561199486078000@steam), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy), Dummy (ID_Dummy).
+2026-10-29 21:01:14.655Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) applied a status effect Invisible for player Playgui31 (76561199486078000@steam). Intensity: 1 - Duration: 0.
+2026-10-29 21:01:31.433Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) changed server configuration: friendly_fire: toggle.
+2026-10-29 21:01:37.384Z | Game Event          | Throwable      | Amaya (76561199444892781@steam) threw GrenadeHE.
+2026-10-29 21:01:38.616Z | Game Event          | Throwable      | Playgui31 (76561199486078000@steam) threw GrenadeHE.
+2026-10-29 21:01:40.887Z | Kill                | Class change   | Dummy (ID_Dummy), playing as Tutorial, has been killed by Amaya (76561199444892781@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Amaya.
+2026-10-29 21:01:40.899Z | Kill                | Class change   | Dummy (ID_Dummy), playing as Tutorial, has been killed by Amaya (76561199444892781@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Amaya.
+2026-10-29 21:01:40.901Z | Kill                | Class change   | Dummy (ID_Dummy), playing as Tutorial, has been killed by Amaya (76561199444892781@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Amaya.
+2026-10-29 21:01:40.903Z | Kill                | Class change   | Dummy (ID_Dummy), playing as Tutorial, has been killed by Amaya (76561199444892781@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Amaya.
+2026-10-29 21:01:40.904Z | Kill                | Class change   | Dummy (ID_Dummy), playing as Tutorial, has been killed by Amaya (76561199444892781@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Amaya.
+2026-10-29 21:01:40.905Z | Kill                | Class change   | Dummy (ID_Dummy), playing as Tutorial, has been killed by Amaya (76561199444892781@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Amaya.
+2026-10-29 21:01:42.121Z | Kill                | Class change   | Amaya (76561199444892781@steam), playing as Tutorial, has been killed by Playgui31 (76561199486078000@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Playgui31.
+2026-10-29 21:01:57.908Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) applied a status effect Invigorated for player Playgui31 (76561199486078000@steam). Intensity: 0 - Duration: 0.
+2026-10-29 21:01:58.808Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) applied a status effect Invisible for player Playgui31 (76561199486078000@steam). Intensity: 0 - Duration: 0.
+2026-10-29 21:01:59.177Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Amaya (76561199444892781@steam) to Tutorial.
+2026-10-29 21:02:00.708Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) applied a status effect Invisible for player Playgui31 (76561199486078000@steam). Intensity: 1 - Duration: 0.
+2026-10-29 21:02:03.659Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) applied a status effect Invisible for player Playgui31 (76561199486078000@steam). Intensity: 0 - Duration: 0.
+2026-10-29 21:02:07.625Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) applied a status effect MovementBoost for player Playgui31 (76561199486078000@steam). Intensity: 1 - Duration: 0.
+2026-10-29 21:02:08.949Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Amaya (76561199444892781@steam) to NtfCaptain.
+2026-10-29 21:02:11.379Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Amaya (76561199444892781@steam) to Tutorial.
+2026-10-29 21:02:11.409Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) applied a status effect MovementBoost for player Playgui31 (76561199486078000@steam). Intensity: 0 - Duration: 0.
+2026-10-29 21:02:13.429Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Amaya (76561199444892781@steam) to NtfCaptain.
+2026-10-29 21:02:15.409Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) applied a status effect MovementBoost for player Playgui31 (76561199486078000@steam). Intensity: 50 - Duration: 0.
+2026-10-29 21:02:16.342Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) applied a status effect MovementBoost for player Playgui31 (76561199486078000@steam). Intensity: 50 - Duration: 0.
+2026-10-29 21:02:16.525Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) applied a status effect MovementBoost for player Playgui31 (76561199486078000@steam). Intensity: 50 - Duration: 0.
+2026-10-29 21:02:17.743Z | Kill                | Class change   | Playgui31 (76561199486078000@steam), playing as Tutorial, has been killed by Amaya (76561199444892781@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Amaya with GunFRMG0 to the 'Body' hitbox.
+2026-10-29 21:02:20.092Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) clear all effects for player Playgui31 (76561199486078000@steam).
+2026-10-29 21:02:32.677Z | Remote Admin        | Class change   | Playgui31 (76561199486078000@steam) changed role of player Playgui31 (76561199486078000@steam) to Scp173.
+2026-10-29 21:02:40.093Z | Remote Admin - Misc | Administrative | Amaya (76561199444892781@steam) has destroyed all dummies.
+2026-10-29 21:03:02.993Z | Remote Admin - Misc | Administrative | Amaya (76561199444892781@steam) enabled global intercom transmission for player Amaya (76561199444892781@steam).
+2026-10-29 21:03:41.393Z | Game Event          | Door           | Amaya (76561199444892781@steam) opened LCZ_ARMORY.
+2026-10-29 21:03:43.259Z | Game Event          | Door           | Amaya (76561199444892781@steam) closed LCZ_ARMORY.
+2026-10-29 21:04:10.894Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) teleported themself to player Playgui31 (76561199486078000@steam).
+2026-10-29 21:05:06.293Z | Game Event          | Throwable      | Amaya (76561199444892781@steam) threw GrenadeHE.
+2026-10-29 21:05:15.097Z | Game Event          | Door           | Amaya (76561199444892781@steam) opened 049_ARMORY.
+2026-10-29 21:05:15.531Z | Kill                | Class change   | Amaya (76561199444892781@steam), playing as Nine-Tailed Fox Captain, has been killed by Playgui31 (76561199486078000@steam) playing as: SCP-173. Specific death reason: Died to SCP (Playgui31, Scp173).
+2026-10-29 21:05:19.029Z | Game Event          | Door           | Amaya (76561199444892781@steam) destroyed 049_ARMORY door using Grenade.
+2026-10-29 21:05:28.449Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Amaya (76561199444892781@steam) to Tutorial.
+2026-10-29 21:05:31.798Z | Remote Admin        | Class change   | Playgui31 (76561199486078000@steam) changed role of player Playgui31 (76561199486078000@steam) to Filmmaker.
+2026-10-29 21:05:40.981Z | Remote Admin        | Class change   | Playgui31 (76561199486078000@steam) changed role of player Playgui31 (76561199486078000@steam) to Overwatch.
+2026-10-29 21:05:56.448Z | Remote Admin        | Class change   | Playgui31 (76561199486078000@steam) changed role of player Playgui31 (76561199486078000@steam) to Spectator.
+2026-10-29 21:05:56.496Z | Game Event          | Class change   | Player Playgui31 (76561199486078000@steam) respawned as NtfPrivate.
+2026-10-29 21:05:56.498Z | Game Event          | Class change   | WaveSpawner has successfully spawned 1 players as FoundationForces!
+2026-10-29 21:06:07.324Z | Remote Admin        | Class change   | Playgui31 (76561199486078000@steam) changed role of player Playgui31 (76561199486078000@steam) to Scp079.
+2026-10-29 21:06:10.604Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) set health of player Amaya (76561199444892781@steam) to 999999999.
+2026-10-29 21:06:20.704Z | Game Event          | Door           | Amaya (76561199444892781@steam) opened SURFACE_GATE.
+2026-10-29 21:08:04.323Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) used "setexperience (99999)" command on player Playgui31 (76561199486078000@steam).
+2026-10-29 21:08:12.739Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) used "setexperience (99999)" command on player Playgui31 (76561199486078000@steam).
+2026-10-29 21:08:13.289Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) used "setexperience (99999)" command on player Playgui31 (76561199486078000@steam).
+2026-10-29 21:08:13.706Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) used "setexperience (99999)" command on player Playgui31 (76561199486078000@steam).
+2026-10-29 21:10:29.558Z | Game Event          | Game logic     | Decontamination started.
+2026-10-29 21:10:31.525Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) disabled noclip for player Amaya (76561199444892781@steam).
+2026-10-29 21:10:33.659Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) brought player Amaya (76561199444892781@steam).
+2026-10-29 21:10:37.241Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) enabled noclip for player Amaya (76561199444892781@steam).
+2026-10-29 21:10:59.247Z | Remote Admin        | Class change   | Playgui31 (76561199486078000@steam) changed role of player Playgui31 (76561199486078000@steam) to Tutorial.
+2026-10-29 21:12:00.596Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) started an advanced cassie announcement: Automatic True hi .
+2026-10-29 21:12:33.014Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) started an advanced cassie announcement: Custom True 2 Amaya stinks Amaya stinks .
+2026-10-29 21:12:43.313Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) started an advanced cassie announcement: Automatic False Amaya stinks .
+2026-10-29 21:12:50.613Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) started an advanced cassie announcement: Automatic True Hello World .
+2026-10-29 21:12:59.996Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) started an advanced cassie announcement: Automatic True Amaya stinks .
+2026-10-29 21:13:39.948Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) brought player Amaya (76561199444892781@steam).
+2026-10-29 21:15:40.553Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) broadcast text "hi ". Duration: 1 seconds. Broadcast Flag: Normal.
+2026-10-29 21:15:44.770Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) broadcast text "hi ". Duration: 5 seconds. Broadcast Flag: Normal.
+2026-10-29 21:15:47.504Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) forced round restart.

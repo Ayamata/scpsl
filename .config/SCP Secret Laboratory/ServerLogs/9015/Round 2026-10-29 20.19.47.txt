@@ -1,0 +1,19 @@
+2026-10-29 20:19:47.387Z | Internal            | Game logic     | Started logging.
+2026-10-29 20:19:47.387Z | Internal            | Game logic     | Game version: 14.2.8.
+2026-10-29 20:19:47.387Z | Internal            | Game logic     | Build type: Release.
+2026-10-29 20:19:47.387Z | Internal            | Game logic     | Build timestamp: 2026-10-12 18:32:38Z.
+2026-10-29 20:19:47.387Z | Internal            | Game logic     | Headless: True.
+2026-10-29 20:20:05.939Z | Connection update   | Networking     | 76561199444892781@steam preauthenticated from endpoint 93.106.2.121:31902.
+2026-10-29 20:20:14.139Z | Connection update   | Networking     | 76561199444892781@steam authenticated from endpoint 93.106.2.121:31902. Player ID assigned: 2. Auth token serial number: mShDxkSU-MvEFC8RR.
+2026-10-29 20:20:14.141Z | Connection update   | Networking     | Nickname of 76561199444892781@steam is now Amaya.
+2026-10-29 20:25:52.299Z | Connection update   | Networking     | 76561199486078000@steam preauthenticated from endpoint 85.163.107.250:55309.
+2026-10-29 20:26:03.756Z | Connection update   | Networking     | 76561199486078000@steam authenticated from endpoint 85.163.107.250:55309. Player ID assigned: 3. Auth token serial number: 9E2Wx49g-Mt2I9cVY.
+2026-10-29 20:26:03.756Z | Connection update   | Networking     | Nickname of 76561199486078000@steam is now Playgui31.
+2026-10-29 20:26:24.734Z | Game Event          | Game logic     | Round has been started.
+2026-10-29 20:27:20.292Z | Game Event          | Door           | Playgui31 (76561199486078000@steam) opened GR18.
+2026-10-29 20:27:48.393Z | Game Event          | Door           | Playgui31 (76561199486078000@steam) opened 330.
+2026-10-29 20:27:55.226Z | Game Event          | Door           | Playgui31 (76561199486078000@steam) closed 330.
+2026-10-29 20:28:36.077Z | Game Event          | Door           | Playgui31 (76561199486078000@steam) opened 914.
+2026-10-29 20:28:51.026Z | Remote Admin        | Administrative | SERVER CONSOLE stopped the server.
+2026-10-29 20:28:51.114Z | Kill                | Class change   | Playgui31 (76561199486078000@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2026-10-29 20:28:51.133Z | Kill                | Class change   | Amaya (76561199444892781@steam), playing as SCP-173, has died. Specific death reason: Unknown cause of death.

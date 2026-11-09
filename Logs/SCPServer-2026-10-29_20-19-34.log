@@ -1,0 +1,100 @@
+[2026-10-29 20:19:22.883 +00:00] Welcome to LocalAdmin version 2.5.16!
+[2026-10-29 20:19:22.886 +00:00] Before starting please read and accept the SCP:SL EULA.
+[2026-10-29 20:19:22.886 +00:00] You can find it on the following website: https://link.scpslgame.com/eula
+[2026-10-29 20:19:22.886 +00:00] 
+[2026-10-29 20:19:22.886 +00:00] Do you accept the EULA? [yes/no]
+Welcome to LocalAdmin Configuration Wizard!
+
+We will ask you a couple of questions. You can always change your answers by running LocalAdmin with "--reconfigure" argument or manually editing configuration files in /home/container/.config/SCP Secret Laboratory/config directory.
+
+This is the default LocalAdmin configuration:
+- Server will be automatically restarted after a crash.
+- LocalAdmin will attempt to detect silent server crashes (heartbeat enabled).
+- LocalAdmin will attempt to show its current status in your terminal title.
+- LocalAdmin live view will use local timezone.
+- LocalAdmin live will use the following timestamp format: yyyy-MM-dd HH:mm:ss.fff zzz
+- UTC timezone will be displayed as "+00:00".
+- Standard outputs (that contain a lot of debug information) will NOT be displayed.
+- Cursor position management is DISABLED.
+- True Color output is ENABLED.
+- LocalAdmin logs are ENABLED.
+- LocalAdmin logs will use local timezone.
+- LocalAdmin logs auto flushing is ENABLED.
+- Standard outputs will be logged.
+- Delete LocalAdmin logs older than 90 days
+- Do not delete old round logs.
+- Do not compress old round logs.
+
+
+Do you want to edit that configuration? [edit/keep]:
+Do you want to save the configuration only for THIS server (on port 9015 or should it become a GLOBAL configuration (default one for all future servers - servers not configured yet)? [this/global]:
+Configuration saved!
+[2026-10-29 20:19:24.395 +00:00] SCP: Secret Laboratory - LocalAdmin v. 2.5.16
+[2026-10-29 20:19:24.395 +00:00] 
+[2026-10-29 20:19:24.395 +00:00] Licensed under The MIT License (use command "license" to get license text).
+[2026-10-29 20:19:24.395 +00:00] Copyright by Łukasz "zabszk" Jurczyk and KernelError, 2019 - 2024
+[2026-10-29 20:19:24.395 +00:00] 
+[2026-10-29 20:19:24.395 +00:00] Type 'help' to get list of available commands.
+[2026-10-29 20:19:24.395 +00:00]
+[2026-10-29 20:19:24.395 +00:00] Started new session on port 9015.
+[2026-10-29 20:19:24.395 +00:00] Trying to start server...
+[2026-10-29 20:19:24.395 +00:00] Executing: SCPSL.x86_64
+[2026-10-29 20:19:24.395 +00:00] Game process started with PID: 104
+[2026-10-29 20:19:24.395 +00:00] Cursor management has been disabled.
+[2026-10-29 20:19:25.459 +00:00] Loading gameplay config...
+[2026-10-29 20:19:25.469 +00:00] Processing rate limits...
+[2026-10-29 20:19:25.479 +00:00] Rate limiting loaded
+[2026-10-29 20:19:25.489 +00:00] Loading sharing config...
+[2026-10-29 20:19:25.499 +00:00] Processing shares...
+[2026-10-29 20:19:25.509 +00:00] Config sharing loaded.
+[2026-10-29 20:19:25.519 +00:00] Config sharing loaded.
+[2026-10-29 20:19:25.529 +00:00] Validating bans...
+[2026-10-29 20:19:25.539 +00:00] Bans has been validated.
+[2026-10-29 20:19:25.549 +00:00] Whitelist has been loaded.
+[2026-10-29 20:19:25.560 +00:00] Reserved slots list has been loaded.
+[2026-10-29 20:19:25.570 +00:00] Server tickrate set to: 60
+[2026-10-29 20:19:25.580 +00:00] Can't load the mute file!
+[2026-10-29 20:19:25.590 +00:00] Loaded NorthwoodLib 1.4.0
+[2026-10-29 20:19:25.600 +00:00] SCP Secret Laboratory process started. Creating match...
+[2026-10-29 20:19:25.610 +00:00] Server tickrate set to: 60
+[2026-10-29 20:19:25.620 +00:00] [INFO] [LabApi] [LOADER] Loading all dependencies
+[2026-10-29 20:19:25.630 +00:00] [INFO] [LabApi] [LOADER] Loading all plugins
+[2026-10-29 20:19:25.640 +00:00] [INFO] [LabApi] [LOADER] Enabling all plugins
+[2026-10-29 20:19:25.651 +00:00] [WARN] [LabApi] [PERMISSIONS_PROVIDER] Permissions file not found. Creating a new one.
+[2026-10-29 20:19:25.661 +00:00] Running as headless dedicated server. Skipping distribution platform detection.
+[2026-10-29 20:19:25.711 +00:00] Updated list of central servers.
+[2026-10-29 20:19:25.721 +00:00] Central servers count: 1
+[2026-10-29 20:19:25.762 +00:00] Updated list of central servers.
+[2026-10-29 20:19:25.772 +00:00] Central servers count: 1
+[2026-10-29 20:19:25.782 +00:00] Hi there! Initializing console...
+[2026-10-29 20:19:25.792 +00:00] Done! Type 'help' to print the list of available commands.
+[2026-10-29 20:19:25.813 +00:00] Central server public key not found in cache.
+[2026-10-29 20:19:25.823 +00:00] Downloading public key from central server...
+[2026-10-29 20:19:25.873 +00:00] Can't refresh central server public key - invalid signature!
+[2026-10-29 20:19:25.934 +00:00] Game version: 14.2.8
+[2026-10-29 20:19:25.944 +00:00] Loading configs...
+[2026-10-29 20:19:25.954 +00:00] Loading gameplay config...
+[2026-10-29 20:19:25.964 +00:00] Processing rate limits...
+[2026-10-29 20:19:25.974 +00:00] Rate limiting loaded
+[2026-10-29 20:19:25.984 +00:00] Loading sharing config...
+[2026-10-29 20:19:25.994 +00:00] Processing shares...
+[2026-10-29 20:19:26.005 +00:00] Config sharing loaded.
+[2026-10-29 20:19:26.015 +00:00] Validating bans...
+[2026-10-29 20:19:26.025 +00:00] Bans has been validated.
+[2026-10-29 20:19:26.035 +00:00] Whitelist has been loaded.
+[2026-10-29 20:19:26.045 +00:00] Reserved slots list has been loaded.
+[2026-10-29 20:19:26.055 +00:00] Server tickrate set to: 60
+[2026-10-29 20:19:26.065 +00:00] Can't load the mute file!
+[2026-10-29 20:19:26.075 +00:00] Config files loaded from /home/container/.config/SCP Secret Laboratory/config/9015/
+[2026-10-29 20:19:26.085 +00:00] Loading server permissions configuration...
+[2026-10-29 20:19:26.096 +00:00] Server permissions configuration loaded.
+[2026-10-29 20:19:26.106 +00:00] Online mode is ENABLED.
+[2026-10-29 20:19:26.116 +00:00] Starting server...
+[2026-10-29 20:19:26.126 +00:00] Query port disabled in config!
+[2026-10-29 20:19:26.136 +00:00] Obtaining your external IP address...
+[2026-10-29 20:19:26.146 +00:00] Scene Manager: Loaded scene 'FastMenu' [Assets/_Scenes/FastMenu.unity]
+[2026-10-29 20:19:26.156 +00:00] Done, your server IP address is 165.217.136.43
+[2026-10-29 20:19:26.166 +00:00] Initializing game server...
+[2026-10-29 20:19:26.176 +00:00] Server starting at all IPv4 addresses and port 9015
+[2026-10-29 20:19:26.187 +00:00] Server starting at all IPv6 addresses and port 9015
+[2026-10-29 20:19:26.197 +00:00] Central server public key is not loaded. Waiting...

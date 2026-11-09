@@ -1,0 +1,208 @@
+[2026-10-30 12:14:32.767 +00:00] SCP: Secret Laboratory - LocalAdmin v. 2.5.16
+[2026-10-30 12:14:32.770 +00:00] 
+[2026-10-30 12:14:32.770 +00:00] Licensed under The MIT License (use command "license" to get license text).
+[2026-10-30 12:14:32.770 +00:00] Copyright by Łukasz "zabszk" Jurczyk and KernelError, 2019 - 2024
+[2026-10-30 12:14:32.770 +00:00] 
+[2026-10-30 12:14:32.770 +00:00] Type 'help' to get list of available commands.
+[2026-10-30 12:14:32.770 +00:00]
+[2026-10-30 12:14:32.770 +00:00] Started new session on port 9015.
+[2026-10-30 12:14:32.770 +00:00] Trying to start server...
+[2026-10-30 12:14:32.770 +00:00] Executing: SCPSL.x86_64
+[2026-10-30 12:14:32.770 +00:00] Game process started with PID: 149
+[2026-10-30 12:14:32.770 +00:00] Cursor management has been disabled.
+[2026-10-30 12:14:33.860 +00:00] Loading gameplay config...
+[2026-10-30 12:14:33.870 +00:00] Processing rate limits...
+[2026-10-30 12:14:33.880 +00:00] Rate limiting loaded
+[2026-10-30 12:14:33.890 +00:00] Loading sharing config...
+[2026-10-30 12:14:33.900 +00:00] Processing shares...
+[2026-10-30 12:14:33.910 +00:00] Config sharing loaded.
+[2026-10-30 12:14:33.920 +00:00] Config sharing loaded.
+[2026-10-30 12:14:33.930 +00:00] Validating bans...
+[2026-10-30 12:14:33.940 +00:00] Bans has been validated.
+[2026-10-30 12:14:33.951 +00:00] Whitelist has been loaded.
+[2026-10-30 12:14:33.961 +00:00] Whitelist has been loaded.
+[2026-10-30 12:14:33.971 +00:00] Reserved slots list has been loaded.
+[2026-10-30 12:14:33.981 +00:00] Reserved slots list has been loaded.
+[2026-10-30 12:14:33.991 +00:00] Server tickrate set to: 60
+[2026-10-30 12:14:34.000 +00:00] Can't load the mute file!
+[2026-10-30 12:14:34.010 +00:00] Loaded NorthwoodLib 1.4.0
+[2026-10-30 12:14:34.020 +00:00] SCP Secret Laboratory process started. Creating match...
+[2026-10-30 12:14:34.030 +00:00] Server tickrate set to: 60
+[2026-10-30 12:14:34.041 +00:00] [INFO] [LabApi] [LOADER] Loading all dependencies
+[2026-10-30 12:14:34.051 +00:00] [INFO] [LabApi] [LOADER] Successfully loaded Exiled.API, Version=9.15.2.0, Culture=neutral, PublicKeyToken=null
+[2026-10-30 12:14:34.061 +00:00] [INFO] [LabApi] [LOADER] Successfully loaded Mono.Posix, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756
+[2026-10-30 12:14:34.071 +00:00] [INFO] [LabApi] [LOADER] Successfully loaded SemanticVersioning, Version=2.0.2.0, Culture=neutral, PublicKeyToken=a89bb7dc6f7a145c
+[2026-10-30 12:14:34.081 +00:00] [INFO] [LabApi] [LOADER] Loading all plugins
+[2026-10-30 12:14:34.091 +00:00] [INFO] [LabApi] [LOADER] Successfully loaded Exiled Loader
+[2026-10-30 12:14:34.101 +00:00] [INFO] [LabApi] [LOADER] Enabling all plugins
+[2026-10-30 12:14:34.111 +00:00] [INFO] [Exiled.Loader] Loading EXILED Version: 9.15.2
+[2026-10-30 12:14:34.121 +00:00] [INFO] [Exiled.Loader] Exiled root path set to: /home/container/.config/EXILED
+[2026-10-30 12:14:34.131 +00:00] [INFO] [Exiled.Loader] Initializing at /home/container
+[2026-10-30 12:14:34.141 +00:00] Exiled.API - Version 9.15.2
+[2026-10-30 12:14:34.152 +00:00] Exiled.Loader - Version 9.15.2
+[2026-10-30 12:14:34.162 +00:00] [INFO] [Exiled.Loader] Loading dependencies at /home/container/.config/EXILED/Plugins/dependencies
+[2026-10-30 12:14:34.172 +00:00] [INFO] [Exiled.Loader] Loaded dependency 0Harmony@2.2.2
+[2026-10-30 12:14:34.182 +00:00] [INFO] [Exiled.Loader] Loaded dependency System.ComponentModel.DataAnnotations@4.0.0
+[2026-10-30 12:14:34.192 +00:00] [INFO] [Exiled.Loader] Dependencies loaded successfully!
+[2026-10-30 12:14:34.201 +00:00] [INFO] [Exiled.Loader] Loaded plugin Admin Tools@1.0.0+f80442ba9b94ed2f9f8fbf864c3bdc3e8fb7196c
+[2026-10-30 12:14:34.211 +00:00] [INFO] [Exiled.Loader] Loaded plugin Common Utilities@8.1.2
+[2026-10-30 12:14:34.221 +00:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.CreditTags@9.15.2
+[2026-10-30 12:14:34.231 +00:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.CustomItems@9.15.2
+[2026-10-30 12:14:34.241 +00:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.CustomRoles@9.15.2
+[2026-10-30 12:14:34.251 +00:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.Events@9.15.2
+[2026-10-30 12:14:34.262 +00:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.Permissions@9.15.2
+[2026-10-30 12:14:34.272 +00:00] [INFO] [Exiled.Loader] Loaded plugin Funny Pills@1.4.1
+[2026-10-30 12:14:34.282 +00:00] [INFO] [Exiled.Loader] Loaded plugin KillLogs@9.6.0
+[2026-10-30 12:14:34.292 +00:00] [INFO] [Exiled.Loader] Loaded plugin RainbowTags@3.0.1
+[2026-10-30 12:14:34.301 +00:00] [INFO] [Exiled.Loader] Loaded plugin RemoteKeycard@3.4.2+d6315faae11411759cb56c6033ca8491fe5de557
+[2026-10-30 12:14:34.311 +00:00] [INFO] [Exiled.Loader] Loaded plugin RoundReports@1.0.0+331e9350ffdde4e0c35a41e9e07215333fd5bb3d
+[2026-10-30 12:14:34.321 +00:00] [INFO] [Exiled.Loader] Loaded plugin Scp035@3.0.0+3497efac6b588e91760a59ee4dfa1c132a48415e
+[2026-10-30 12:14:34.331 +00:00] [INFO] [Exiled.Loader] Loading plugin configs... (Separated)
+[2026-10-30 12:14:34.341 +00:00] [WARN] [Exiled.Loader] Funny Pills doesn't have default configs, generating...
+[2026-10-30 12:14:34.351 +00:00] [INFO] [Exiled.Loader] Plugin configs loaded successfully!
+[2026-10-30 12:14:34.361 +00:00] [INFO] [Exiled.Loader] Loading plugin translations... (Separated)
+[2026-10-30 12:14:34.372 +00:00] [INFO] [Exiled.Loader] Plugin translations loaded successfully!
+[2026-10-30 12:14:34.382 +00:00] [INFO] [Exiled.API] Exiled.Events v9.15.2 by ExMod Team has been enabled!
+[2026-10-30 12:14:34.734 +00:00] [INFO] [Exiled.Events] Non-event patches completed in 00:00:00.4937070
+[2026-10-30 12:14:34.835 +00:00] [INFO] [Exiled.API] Exiled.CreditTags v9.15.2 by Babyboucher20 & iRebbok & Exiled Team has been enabled!
+[2026-10-30 12:14:34.865 +00:00] [INFO] [Exiled.API] Exiled.CustomRoles v9.15.2 by ExMod Team has been enabled!
+[2026-10-30 12:14:34.875 +00:00] [INFO] [Exiled.API] Exiled.Permissions v9.15.2 by ExMod Team has been enabled!
+[2026-10-30 12:14:34.886 +00:00] [INFO] [Exiled.API] Exiled.CustomItems v9.15.2 by ExMod Team has been enabled!
+[2026-10-30 12:14:34.916 +00:00] [INFO] [Exiled.API] Admin Tools v8.0.2 by Exiled-Team has been enabled!
+[2026-10-30 12:14:34.936 +00:00] [INFO] [Exiled.API] Common Utilities v8.1.2 by ExMod-Team has been enabled!
+[2026-10-30 12:14:34.966 +00:00] [INFO] [Exiled.API] RainbowTags v3.0.1 by NotIntense has been enabled!
+[2026-10-30 12:14:34.976 +00:00] [ERROR] [Exiled.Loader] Plugin "KillLogs" threw an exception while enabling: System.InvalidOperationException: The url is not valid
+                                   at DSharp4Webhook.Core.WebhookProvider.CreateWebhook (System.String url, DSharp4Webhook.Core.WebhookProvider provider) [0x0002c] in <4c094f4e81f74fc9b91908f7af09fe48>:0 
+                                   at DSharp4Webhook.Core.WebhookProvider.CreateWebhook (System.String url) [0x00000] in <4c094f4e81f74fc9b91908f7af09fe48>:0 
+                                   at KillLogs.Plugin.OnEnabled () [0x00068] in <b771482c2e104a3fa5abd07b13936328>:0 
+                                   at Exiled.Loader.Loader.EnablePlugins () [0x000c6] in <8c87214dc17648a7810bb8dec3e17f7c>:0
+[2026-10-30 12:14:34.987 +00:00] [INFO] [Exiled.API] RemoteKeycard v3.4.2 by Beryl && Parkeymon (Maintained by Unbistrackted) has been enabled!
+[2026-10-30 12:14:34.997 +00:00] [INFO] [FunnyPills] /home/container/.config/EXILED/Configs/FunnyPills/Funny_Pill.yml
+[2026-10-30 12:14:35.037 +00:00] [INFO] [Scp035] !! This plugin is now maintained by pan_andrzej. Report any issues directly on EXILED discord - https://discord.gg/abRD4ujC. !!
+[2026-10-30 12:14:35.067 +00:00] [INFO] [Exiled.API] Scp035 v1.2.0 by Joker119 has been enabled!
+[2026-10-30 12:14:35.077 +00:00] [WARN] [RoundReports] Missing paste.ee key! RoundReports cannot function without a valid paste.ee key.
+[2026-10-30 12:14:35.087 +00:00] Welcome to 
+                                 @@@@@@@@  @@@  @@@  @@@  @@@       @@@@@@@@  @@@@@@@
+                                 @@@@@@@@  @@@  @@@  @@@  @@@       @@@@@@@@  @@@@@@@@
+                                 @@!       @@!  !@@  @@!  @@!       @@!       @@!  @@@
+                                 !@!       !@!  @!!  !@!  !@!       !@!       !@!  @!@
+                                 @!!!:!     !@@!@!   !!@  @!!       @!!!:!    @!@  !@!
+                                 !!!!!:      @!!!    !!!  !!!       !!!!!:    !@!  !!!
+                                 !!:        !: :!!   !!:  !!:       !!:       !!:  !!!
+                                 :!:       :!:  !:!  :!:   :!:      :!:       :!:  !:!
+                                  :: ::::   ::  :::   ::   :: ::::   :: ::::   :::: ::
+                                 : :: ::    :   ::   :    : :: : :  : :: ::   :: :  :
+[2026-10-30 12:14:35.097 +00:00] [INFO] [LabApi] [LOADER] Successfully enabled 'Exiled Loader', Version: 9.15.2.0, Author: 'ExMod-Team'
+[2026-10-30 12:14:35.107 +00:00] Selected central server: SBG1 (https://SBG1.scpslgame.com/)
+[2026-10-30 12:14:35.118 +00:00] Running as headless dedicated server. Skipping distribution platform detection.
+[2026-10-30 12:14:35.238 +00:00] Updated list of central servers.
+[2026-10-30 12:14:35.249 +00:00] Central servers count: 1
+[2026-10-30 12:14:35.319 +00:00] Hi there! Initializing console...
+[2026-10-30 12:14:35.329 +00:00] Done! Type 'help' to print the list of available commands.
+[2026-10-30 12:14:35.409 +00:00] Loaded central server public key from cache.
+[2026-10-30 12:14:35.419 +00:00] SHA256 of public key: 8FADDCC0F95FE6DFD96C67CD892CFE5D69D60D6A45D6B5C1226D229AEBD715BC
+[2026-10-30 12:14:35.429 +00:00] Downloading public key from central server...
+[2026-10-30 12:14:35.459 +00:00] Downloaded public key from central server.
+[2026-10-30 12:14:35.470 +00:00] SHA256 of public key: 8FADDCC0F95FE6DFD96C67CD892CFE5D69D60D6A45D6B5C1226D229AEBD715BC
+[2026-10-30 12:14:35.480 +00:00] SHA256 of cached key matches, no need to update cache.
+[2026-10-30 12:14:35.490 +00:00] Game version: 14.2.8
+[2026-10-30 12:14:35.501 +00:00] Loading configs...
+[2026-10-30 12:14:35.511 +00:00] Loading gameplay config...
+[2026-10-30 12:14:35.521 +00:00] Processing rate limits...
+[2026-10-30 12:14:35.531 +00:00] Rate limiting loaded
+[2026-10-30 12:14:35.541 +00:00] Loading sharing config...
+[2026-10-30 12:14:35.552 +00:00] Processing shares...
+[2026-10-30 12:14:35.562 +00:00] Config sharing loaded.
+[2026-10-30 12:14:35.572 +00:00] Validating bans...
+[2026-10-30 12:14:35.582 +00:00] Bans has been validated.
+[2026-10-30 12:14:35.592 +00:00] Whitelist has been loaded.
+[2026-10-30 12:14:35.602 +00:00] Reserved slots list has been loaded.
+[2026-10-30 12:14:35.612 +00:00] Server tickrate set to: 60
+[2026-10-30 12:14:35.622 +00:00] Can't load the mute file!
+[2026-10-30 12:14:35.632 +00:00] Config files loaded from /home/container/.config/SCP Secret Laboratory/config/9015/
+[2026-10-30 12:14:35.643 +00:00] Loading server permissions configuration...
+[2026-10-30 12:14:35.653 +00:00] Server permissions configuration loaded.
+[2026-10-30 12:14:35.663 +00:00] Online mode is ENABLED.
+[2026-10-30 12:14:35.673 +00:00] Starting server...
+[2026-10-30 12:14:35.683 +00:00] Query port disabled in config!
+[2026-10-30 12:14:35.693 +00:00] Obtaining your external IP address...
+[2026-10-30 12:14:35.702 +00:00] Scene Manager: Loaded scene 'FastMenu' [Assets/_Scenes/FastMenu.unity]
+[2026-10-30 12:14:35.712 +00:00] Done, your server IP address is 165.217.136.43
+[2026-10-30 12:14:35.722 +00:00] Initializing game server...
+[2026-10-30 12:14:35.732 +00:00] Server starting at all IPv4 addresses and port 9015
+[2026-10-30 12:14:35.742 +00:00] Server starting at all IPv6 addresses and port 9015
+[2026-10-30 12:14:35.752 +00:00] Network sockets mode: Native
+[2026-10-30 12:14:35.913 +00:00] Requested challenge for incoming connection from endpoint 93.106.2.121:32025.
+[2026-10-30 12:14:36.315 +00:00] Security challenge response of incoming connection from endpoint 93.106.2.121:32126 has been accepted.
+[2026-10-30 12:14:36.325 +00:00] Delayed connection incoming from endpoint 93.106.2.121:32126 by 5 seconds.
+[2026-10-30 12:14:36.796 +00:00] Loading cmd bindings...
+[2026-10-30 12:14:37.972 +00:00] [DEBUG_MAPGEN] Server has successfully generated a random seed: 123481381
+[2026-10-30 12:14:38.477 +00:00] [DEBUG_MAPGEN] Sequence of procedural level generation completed.
+[2026-10-30 12:14:38.928 +00:00] Scene Manager: Loaded scene 'Facility' [Assets/_Scenes/Facility.unity]
+[2026-10-30 12:14:38.969 +00:00] [INFO] [Exiled.Loader] Found the smallest version of Exiled - Exiled.API:9.15.2
+[2026-10-30 12:14:38.979 +00:00] Level loaded. Creating match...
+[2026-10-30 12:14:39.100 +00:00] Your server won't be visible on the public server list - (165.217.136.43)
+[2026-10-30 12:14:39.110 +00:00] If you are 100% sure that the server is working, can be accessed from the Internet and YOU WANT TO MAKE IT PUBLIC, please set up your email in configuration file ("contact_email" value) and restart the server.
+[2026-10-30 12:14:39.150 +00:00] Generated random salt: JHWKS36VQcTLkStR2KFJqSvfo6k8a9Bv
+[2026-10-30 12:14:39.160 +00:00] Incoming connections will be no longer delayed.
+[2026-10-30 12:14:39.170 +00:00] Idle mode is now available.
+[2026-10-30 12:14:39.191 +00:00] Waiting for players...
+[2026-10-30 12:14:39.574 +00:00] Received first heartbeat. Silent crash detection is now active.
+[2026-10-30 12:14:39.594 +00:00] [INFO] [Exiled.Loader] No new versions found, you're using the most recent version of Exiled!
+[2026-10-30 12:14:42.106 +00:00] Requested challenge for incoming connection from endpoint 93.106.2.121:31991.
+[2026-10-30 12:14:42.559 +00:00] Security challenge response of incoming connection from endpoint 93.106.2.121:31924 has been accepted.
+[2026-10-30 12:14:42.579 +00:00] Player 76561199444892781@steam preauthenticated from endpoint 93.106.2.121:31924.
+[2026-10-30 12:14:49.982 +00:00] 76561199444892781@steam authenticated from endpoint 93.106.2.121:31924. Player ID assigned: 2. Auth token serial number: 4RjFHq3m-22m32XHw.
+[2026-10-30 12:14:49.992 +00:00] Nickname of 76561199444892781@steam is now Amaya.
+[2026-10-30 12:14:50.001 +00:00] Player Amaya (76561199444892781@steam) (2) connected with the IP: 93.106.2.121
+[2026-10-30 12:14:53.211 +00:00] New round has been started.
+[2026-10-30 12:20:12.281 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:20:12.291 +00:00] [WARN] [FunnyPills] FP Returned AddRandomBadEffect
+[2026-10-30 12:20:35.632 +00:00] Refreshed public key of central server - key hash not changed.
+[2026-10-30 12:20:42.722 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:20:42.733 +00:00] [WARN] [FunnyPills] FP Returned AddRandomGoodEffect
+[2026-10-30 12:20:44.977 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:20:44.987 +00:00] [WARN] [FunnyPills] FP Returned Blackout
+[2026-10-30 12:20:46.978 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:20:46.988 +00:00] [WARN] [FunnyPills] FP Returned Blackout
+[2026-10-30 12:20:48.931 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:20:48.941 +00:00] [WARN] [FunnyPills] FP Returned BetrayTeam
+[2026-10-30 12:20:48.951 +00:00] [ERROR] [Exiled.Events] Method "OnUsedItem" of the class "FunnyPills.Scp500" caused an exception when handling the event "Exiled.Events.Features.Event`1[[Exiled.Events.EventArgs.Player.UsedItemEventArgs, Exiled.Events, Version=9.15.2.0, Culture=neutral, PublicKeyToken=null]]"
+                                 System.MissingMethodException: Method not found: void PlayerRoles.PlayerRoleManager.ServerSetRole(PlayerRoles.RoleTypeId,PlayerRoles.RoleChangeReason,PlayerRoles.RoleSpawnFlags)
+                                   at FunnyPills.Scp500.ApplyEffect (Exiled.API.Features.Player player, FunnyPills.Scp500+Effects effect) [0x0008e] in <839a7ec9507c4a7788856db77bfa75da>:0 
+                                   at FunnyPills.Scp500.OnUsedItem (Exiled.Events.EventArgs.Player.UsedItemEventArgs ev) [0x000c4] in <839a7ec9507c4a7788856db77bfa75da>:0 
+                                   at Exiled.Events.Features.Event`1[T].BlendedInvoke (T arg) [0x00088] in <2723d83a3be745a8b4de110733ee4e2f>:0
+[2026-10-30 12:20:50.964 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:20:50.975 +00:00] [WARN] [FunnyPills] FP Returned BetrayTeam
+[2026-10-30 12:20:50.985 +00:00] [ERROR] [Exiled.Events] Method "OnUsedItem" of the class "FunnyPills.Scp500" caused an exception when handling the event "Exiled.Events.Features.Event`1[[Exiled.Events.EventArgs.Player.UsedItemEventArgs, Exiled.Events, Version=9.15.2.0, Culture=neutral, PublicKeyToken=null]]"
+                                 System.MissingMethodException: Method not found: void PlayerRoles.PlayerRoleManager.ServerSetRole(PlayerRoles.RoleTypeId,PlayerRoles.RoleChangeReason,PlayerRoles.RoleSpawnFlags)
+                                   at FunnyPills.Scp500.ApplyEffect (Exiled.API.Features.Player player, FunnyPills.Scp500+Effects effect) [0x0008e] in <839a7ec9507c4a7788856db77bfa75da>:0 
+                                   at FunnyPills.Scp500.OnUsedItem (Exiled.Events.EventArgs.Player.UsedItemEventArgs ev) [0x000c4] in <839a7ec9507c4a7788856db77bfa75da>:0 
+                                   at Exiled.Events.Features.Event`1[T].BlendedInvoke (T arg) [0x00088] in <2723d83a3be745a8b4de110733ee4e2f>:0
+[2026-10-30 12:20:52.915 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:20:52.925 +00:00] [WARN] [FunnyPills] FP Returned SizeChange
+[2026-10-30 12:21:00.886 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:21:00.896 +00:00] [WARN] [FunnyPills] FP Returned StartTheFuckingNuke
+[2026-10-30 12:21:09.224 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:21:09.234 +00:00] [WARN] [FunnyPills] FP Returned Blackout
+[2026-10-30 12:21:27.291 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:21:27.301 +00:00] [WARN] [FunnyPills] FP Returned BetrayTeam
+[2026-10-30 12:21:27.311 +00:00] [ERROR] [Exiled.Events] Method "OnUsedItem" of the class "FunnyPills.Scp500" caused an exception when handling the event "Exiled.Events.Features.Event`1[[Exiled.Events.EventArgs.Player.UsedItemEventArgs, Exiled.Events, Version=9.15.2.0, Culture=neutral, PublicKeyToken=null]]"
+                                 System.MissingMethodException: Method not found: void PlayerRoles.PlayerRoleManager.ServerSetRole(PlayerRoles.RoleTypeId,PlayerRoles.RoleChangeReason,PlayerRoles.RoleSpawnFlags)
+                                   at FunnyPills.Scp500.ApplyEffect (Exiled.API.Features.Player player, FunnyPills.Scp500+Effects effect) [0x0008e] in <839a7ec9507c4a7788856db77bfa75da>:0 
+                                   at FunnyPills.Scp500.OnUsedItem (Exiled.Events.EventArgs.Player.UsedItemEventArgs ev) [0x000c4] in <839a7ec9507c4a7788856db77bfa75da>:0 
+                                   at Exiled.Events.Features.Event`1[T].BlendedInvoke (T arg) [0x00088] in <2723d83a3be745a8b4de110733ee4e2f>:0
+[2026-10-30 12:21:30.229 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:21:30.239 +00:00] [WARN] [FunnyPills] FP Returned SizeChange
+[2026-10-30 12:21:35.240 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:21:35.250 +00:00] [WARN] [FunnyPills] FP Returned SizeChange
+[2026-10-30 12:21:37.866 +00:00] [DEBUG] [FunnyPills] Passed FP Check
+[2026-10-30 12:21:37.876 +00:00] [WARN] [FunnyPills] FP Returned Kaboom
+[2026-10-30 12:40:37.801 +00:00] Player Amaya disconnected
+[2026-10-30 12:40:37.811 +00:00] Server has entered the idle mode.
+[2026-10-31 01:12:40.679 +00:00] Could not update server data on server list - (LOCAL EXCEPTION) An error occurred while sending the request.
+[2026-10-31 21:07:11.312 +00:00] Could not update server data on server list - (LOCAL EXCEPTION) The operation was canceled.
+[2026-10-31 21:08:41.321 +00:00] Could not update server data on server list - (LOCAL EXCEPTION) The operation was canceled.
+[2026-10-31 21:09:18.605 +00:00] Can't refresh central server public key - The operation was canceled.
+[2026-10-31 21:09:56.380 +00:00] Could not update server data on server list - (LOCAL EXCEPTION) Response status code does not indicate success: 521 (<none>).
+[2026-10-31 21:10:03.739 +00:00] >>> EXIT

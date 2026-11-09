@@ -1,0 +1,16 @@
+2026-10-30 12:06:19.832Z | Internal            | Game logic     | Started logging.
+2026-10-30 12:06:19.832Z | Internal            | Game logic     | Game version: 14.2.8.
+2026-10-30 12:06:19.832Z | Internal            | Game logic     | Build type: Release.
+2026-10-30 12:06:19.832Z | Internal            | Game logic     | Build timestamp: 2026-10-12 18:32:38Z.
+2026-10-30 12:06:19.832Z | Internal            | Game logic     | Headless: True.
+2026-10-30 12:06:54.445Z | Connection update   | Networking     | 76561199444892781@steam preauthenticated from endpoint 93.106.2.121:31917.
+2026-10-30 12:07:06.701Z | Connection update   | Networking     | 76561199444892781@steam authenticated from endpoint 93.106.2.121:31917. Player ID assigned: 2. Auth token serial number: 4RjFHq3m-/xthPbtR.
+2026-10-30 12:07:06.704Z | Connection update   | Networking     | Nickname of 76561199444892781@steam is now Amaya.
+2026-10-30 12:07:06.709Z | Connection update   | Permissions    | Amaya (76561199444892781@steam) has been assigned to group Weirdo Owner.
+2026-10-30 12:07:20.052Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) enabled lobby lock.
+2026-10-30 12:07:20.533Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) enabled round lock.
+2026-10-30 12:07:23.166Z | Game Event          | Game logic     | Round has been started.
+2026-10-30 12:07:23.166Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) forced round start.
+2026-10-30 12:07:45.165Z | Game Event          | Door           | Long-Term Survivor<color=#855439>*</color> (Amaya) (76561199444892781@steam) opened GR18.
+2026-10-30 12:07:47.365Z | Game Event          | Door           | Long-Term Survivor<color=#855439>*</color> (Amaya) (76561199444892781@steam) opened GR18_INNER.
+2026-10-30 12:14:18.438Z | Remote Admin        | Administrative | SERVER CONSOLE stopped the server.

@@ -1,0 +1,71 @@
+2026-10-30 12:14:39.128Z | Internal            | Game logic     | Started logging.
+2026-10-30 12:14:39.128Z | Internal            | Game logic     | Game version: 14.2.8.
+2026-10-30 12:14:39.128Z | Internal            | Game logic     | Build type: Release.
+2026-10-30 12:14:39.128Z | Internal            | Game logic     | Build timestamp: 2026-10-12 18:32:38Z.
+2026-10-30 12:14:39.128Z | Internal            | Game logic     | Headless: True.
+2026-10-30 12:14:42.563Z | Connection update   | Networking     | 76561199444892781@steam preauthenticated from endpoint 93.106.2.121:31924.
+2026-10-30 12:14:49.965Z | Connection update   | Networking     | 76561199444892781@steam authenticated from endpoint 93.106.2.121:31924. Player ID assigned: 2. Auth token serial number: 4RjFHq3m-22m32XHw.
+2026-10-30 12:14:49.968Z | Connection update   | Networking     | Nickname of 76561199444892781@steam is now Amaya.
+2026-10-30 12:14:49.973Z | Connection update   | Permissions    | Amaya (76561199444892781@steam) has been assigned to group Weirdo Owner.
+2026-10-30 12:14:53.201Z | Game Event          | Game logic     | Round has been started.
+2026-10-30 12:14:53.201Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) forced round start.
+2026-10-30 12:15:01.304Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) enabled round lock.
+2026-10-30 12:15:48.322Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) disabled noclip for player Amaya (76561199444892781@steam) using noclip toggle command.
+2026-10-30 12:15:59.138Z | Game Event          | Door           | Amaya (76561199444892781@steam) opened 173_ARMORY.
+2026-10-30 12:16:02.655Z | Game Event          | Door           | Amaya (76561199444892781@steam) opened 173_CONNECTOR.
+2026-10-30 12:16:06.688Z | Game Event          | Door           | Amaya (76561199444892781@steam) opened 173_GATE.
+2026-10-30 12:21:00.860Z | Game Event          | Warhead        | Countdown started.
+2026-10-30 12:21:38.366Z | Kill                | Class change   | Amaya (76561199444892781@steam), playing as Class-D Personnel, has been killed by Dedicated Server (ID_Dedicated) playing as: None. Specific death reason: Explosion. caused by Dedicated Server.
+2026-10-30 12:21:51.911Z | Game Event          | Class change   | Player Amaya (76561199444892781@steam) respawned as ChaosRifleman.
+2026-10-30 12:21:51.935Z | Game Event          | Class change   | WaveSpawner has successfully spawned 1 players as ChaosInsurgency!
+2026-10-30 12:21:53.354Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Amaya (76561199444892781@steam) to Scp3114.
+2026-10-30 12:22:32.078Z | Game Event          | Warhead        | Detonation cancelled.
+2026-10-30 12:22:32.078Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) cancelled warhead detonation.
+2026-10-30 12:23:21.611Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) toggled on the DMS sequence countdown.
+2026-10-30 12:23:22.627Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) toggled off the DMS sequence countdown.
+2026-10-30 12:23:28.061Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) toggled on the DMS sequence countdown.
+2026-10-30 12:23:31.228Z | Game Event          | Warhead        | Countdown started.
+2026-10-30 12:23:31.228Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) started warhead detonation.
+2026-10-30 12:23:33.028Z | Game Event          | Warhead        | Detonation cancelled.
+2026-10-30 12:23:33.028Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) cancelled warhead detonation.
+2026-10-30 12:23:35.978Z | Game Event          | Warhead        | Countdown started.
+2026-10-30 12:23:35.979Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) forced the DMS sequence.
+2026-10-30 12:24:48.763Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) broadcast text "<color=red>Welcome to <color=red>HELL</color>, Amaya! " to 1 players. Duration: 10 seconds. Affected players: Amaya (76561199444892781@steam). Broadcast Flag: Normal.
+2026-10-30 12:25:00.062Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) broadcast text "Welcome to <color=red>HELL</color>, Amaya! " to 1 players. Duration: 10 seconds. Affected players: Amaya (76561199444892781@steam). Broadcast Flag: Normal.
+2026-10-30 12:25:12.746Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) toggled off the DMS sequence countdown.
+2026-10-30 12:25:13.563Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) cancelled warhead detonation.
+2026-10-30 12:25:14.396Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) forced the DMS sequence.
+2026-10-30 12:25:15.513Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) cancelled warhead detonation.
+2026-10-30 12:25:15.663Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) cancelled warhead detonation.
+2026-10-30 12:25:15.779Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) cancelled warhead detonation.
+2026-10-30 12:25:16.030Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) cancelled warhead detonation.
+2026-10-30 12:25:16.179Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) cancelled warhead detonation.
+2026-10-30 12:25:19.979Z | Game Event          | Warhead        | Warhead detonated.
+2026-10-30 12:25:19.979Z | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2026-10-30 12:25:34.546Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) locked the alpha warhead detonation.
+2026-10-30 12:25:36.463Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) cancelled warhead detonation.
+2026-10-30 12:25:39.347Z | Game Event          | Warhead        | Countdown started.
+2026-10-30 12:25:39.347Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) instantly detonated the warhead.
+2026-10-30 12:25:39.363Z | Game Event          | Warhead        | Warhead detonated.
+2026-10-30 12:25:39.980Z | Game Event          | Warhead        | Countdown started.
+2026-10-30 12:25:39.980Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) instantly detonated the warhead.
+2026-10-30 12:25:39.996Z | Game Event          | Warhead        | Warhead detonated.
+2026-10-30 12:25:40.763Z | Game Event          | Warhead        | Countdown started.
+2026-10-30 12:25:40.763Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) instantly detonated the warhead.
+2026-10-30 12:25:40.779Z | Game Event          | Warhead        | Warhead detonated.
+2026-10-30 12:25:41.596Z | Game Event          | Warhead        | Countdown started.
+2026-10-30 12:25:41.596Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) instantly detonated the warhead.
+2026-10-30 12:25:41.613Z | Game Event          | Warhead        | Warhead detonated.
+2026-10-30 12:25:42.829Z | Game Event          | Warhead        | Countdown started.
+2026-10-30 12:25:42.829Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) instantly detonated the warhead.
+2026-10-30 12:25:42.846Z | Game Event          | Warhead        | Warhead detonated.
+2026-10-30 12:25:52.868Z | Remote Admin        | Class change   | Amaya (76561199444892781@steam) changed role of player Amaya (76561199444892781@steam) to Tutorial.
+2026-10-30 12:26:38.833Z | Kill                | Class change   | Amaya (76561199444892781@steam), playing as Tutorial, has died. Specific death reason: Fall damage.
+2026-10-30 12:27:50.602Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) started an advanced cassie announcement: Custom True 10 C.A.S.S.I.E is now <color=red>deactivated</color> for the rest of the game. CASSIE IS NOW DEACTIVATED FOR THE REST OF THE GAME .
+2026-10-30 12:28:19.902Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) started an advanced cassie announcement: Custom True 10 C.A.S.S.I.E is now <color=red>deactivated</color> for the remainings of the game. CASSIE IS NOW DEACTIVATED FOR THE Remaining s OF THE GAME .
+2026-10-30 12:29:30.856Z | Game Event          | Class change   | Player Amaya (76561199444892781@steam) respawned as NtfPrivate.
+2026-10-30 12:29:30.856Z | Game Event          | Class change   | WaveSpawner has successfully spawned 1 players as FoundationForces!
+2026-10-30 12:32:54.023Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) started an advanced cassie announcement: Custom True 8 Scanning Facility..\nScan complete.\nDetected: 1 Nine Tailed Fox Unit Scanning Facility... Scan complete... Detected 1 Nine Tailed Fox.. 1 Chaos Insurgency .
+2026-10-30 12:36:09.476Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) started an advanced cassie announcement: Custom True 13 Scanning Facility.. Scan complete. Detected: 1 Nine Tailed Fox Unit 1 Chaos Insurgency. Scanning facility . . . Scan Complete . . Detected 1 MOBILE TASK force unit . 1 chaos insurgency .
+2026-10-30 12:40:37.631Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) banned player Amaya (76561199444892781@steam). Ban duration: 0. Reason: Silly..
+2026-10-30 12:40:37.780Z | Kill                | Class change   | Amaya (76561199444892781@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Unknown cause of death.

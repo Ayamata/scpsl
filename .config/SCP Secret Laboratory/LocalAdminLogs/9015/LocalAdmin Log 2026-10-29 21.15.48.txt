@@ -1,0 +1,180 @@
+[2026-10-29 21:15:48.849 +00:00] Logging started.
+[2026-10-29 21:15:48.849 +00:00] Timezone offset: +00:00
+[2026-10-29 21:15:48.860 +00:00] Waiting for players...
+[2026-10-29 21:15:48.980 +00:00] [STDOUT] Unloading 750 unused Assets to reduce memory usage. Loaded Objects now: 713234.
+[2026-10-29 21:15:48.980 +00:00] [STDOUT] Total: 168.809122 ms (FindLiveObjects: 49.896229 ms CreateObjectMapping: 26.435562 ms MarkObjects: 90.760614 ms  DeleteObjects: 1.715706 ms)
+[2026-10-29 21:15:48.980 +00:00] [STDOUT] Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+[2026-10-29 21:15:48.983 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:48.983 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:48.983 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:48.984 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:48.984 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:48.984 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:48.984 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:48.984 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:48.984 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:48.984 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:48.984 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:48.984 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:48.986 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:48.986 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:48.986 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:48.986 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:48.986 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:48.986 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:48.990 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:48.990 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:48.990 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:48.997 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:15:48.997 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:15:48.997 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:15:48.997 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:15:49.169 +00:00] [STDOUT] Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 720551.
+[2026-10-29 21:15:49.169 +00:00] [STDOUT] Total: 167.873433 ms (FindLiveObjects: 46.512907 ms CreateObjectMapping: 27.836967 ms MarkObjects: 92.431737 ms  DeleteObjects: 1.091232 ms)
+[2026-10-29 21:15:49.646 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:49.646 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:49.646 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:49.646 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:49.646 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:49.646 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:49.646 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:49.646 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:49.646 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:49.690 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:49.690 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:49.690 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:49.690 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:49.690 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:49.690 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:49.690 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:49.690 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:49.690 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:49.693 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:49.693 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:49.693 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:49.695 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:49.695 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:49.695 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:49.695 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:49.695 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:49.695 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:49.695 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[2026-10-29 21:15:49.695 +00:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2026-10-29 21:15:49.695 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2026-10-29 21:15:54.408 +00:00] Requested challenge for incoming connection from endpoint 85.163.107.250:57337.
+[2026-10-29 21:15:54.791 +00:00] Security challenge response of incoming connection from endpoint 85.163.107.250:57339 has been accepted.
+[2026-10-29 21:15:54.801 +00:00] Player 76561199486078000@steam preauthenticated from endpoint 85.163.107.250:57339.
+[2026-10-29 21:15:55.817 +00:00] Requested challenge for incoming connection from endpoint 93.106.2.121:32043.
+[2026-10-29 21:15:56.191 +00:00] Security challenge response of incoming connection from endpoint 93.106.2.121:31996 has been accepted.
+[2026-10-29 21:15:56.201 +00:00] Player 76561199444892781@steam preauthenticated from endpoint 93.106.2.121:31996.
+[2026-10-29 21:16:00.971 +00:00] 76561199486078000@steam authenticated from endpoint 85.163.107.250:57339. Player ID assigned: 11. Auth token serial number: 9E2Wx49g-pPFgni23.
+[2026-10-29 21:16:00.982 +00:00] Nickname of 76561199486078000@steam is now Playgui31.
+[2026-10-29 21:16:00.992 +00:00] Player Playgui31 (76561199486078000@steam) (11) connected with the IP: 85.163.107.250
+[2026-10-29 21:16:04.090 +00:00] 76561199444892781@steam authenticated from endpoint 93.106.2.121:31996. Player ID assigned: 12. Auth token serial number: mShDxkSU-1PCjRXDw.
+[2026-10-29 21:16:04.100 +00:00] Nickname of 76561199444892781@steam is now Amaya.
+[2026-10-29 21:16:04.110 +00:00] Player Amaya (76561199444892781@steam) (12) connected with the IP: 93.106.2.121
+[2026-10-29 21:16:23.146 +00:00] Player Amaya disconnected
+[2026-10-29 21:17:17.280 +00:00] >>> kick 11 noob
+[2026-10-29 21:17:17.303 +00:00] Command kick does not exist!
+[2026-10-29 21:17:20.080 +00:00] >>> .kick 11 noob
+[2026-10-29 21:17:20.107 +00:00] Sending command to server: kick 11 noob
+[2026-10-29 21:17:20.117 +00:00] [UNENCRYPTED FROM SERVER] Command not found.
+[2026-10-29 21:17:33.032 +00:00] >>> ban 11 noob
+[2026-10-29 21:17:33.059 +00:00] Command ban does not exist!
+[2026-10-29 21:17:36.156 +00:00] >>> .ban 11 noob
+[2026-10-29 21:17:36.196 +00:00] Sending command to server: ban 11 noob
+[2026-10-29 21:17:36.206 +00:00] [UNENCRYPTED FROM SERVER] Command not found.
+[2026-10-29 21:17:37.872 +00:00] New round has been started.
+[2026-10-29 21:18:04.981 +00:00] >>> restart
+[2026-10-29 21:18:05.019 +00:00] Idle mode is now temporarily blocked.
+[2026-10-29 21:18:05.029 +00:00] Server shutdown initiated.
+[2026-10-29 21:18:05.039 +00:00] Incoming connections will be now delayed by 5 seconds.
+[2026-10-29 21:18:05.049 +00:00] Broadcasting server shutdown to all connected players...
+[2026-10-29 21:18:05.090 +00:00] Player Playgui31 disconnected
+[2026-10-29 21:18:07.237 +00:00] [STDOUT] ConnectionRequestLoop stopped
+[2026-10-29 21:18:07.241 +00:00] [STDOUT] PollingLoop stopped
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] ThreadAbortException: Thread was being aborted.
+[2026-10-29 21:18:07.247 +00:00] [STDOUT]   at (wrapper managed-to-native) System.Net.Sockets.Socket.Receive_icall(intptr,byte*,int,System.Net.Sockets.SocketFlags,int&,bool)
+[2026-10-29 21:18:07.247 +00:00] [STDOUT]   at System.Net.Sockets.Socket.Receive_internal (System.Net.Sockets.SafeSocketHandle safeHandle, System.Byte* buffer, System.Int32 count, System.Net.Sockets.SocketFlags flags, System.Int32& error, System.Boolean blocking) [0x0000c] in <6297cf863591482c869f99d22a768126>:0
+[2026-10-29 21:18:07.247 +00:00] [STDOUT]   at System.Net.Sockets.Socket.Receive (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags, System.Net.Sockets.SocketError& errorCode) [0x0002e] in <6297cf863591482c869f99d22a768126>:0
+[2026-10-29 21:18:07.247 +00:00] [STDOUT]   at System.Net.Sockets.Socket.Receive (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags) [0x00000] in <6297cf863591482c869f99d22a768126>:0
+[2026-10-29 21:18:07.247 +00:00] [STDOUT]   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, System.Int32 offset, System.Int32 size) [0x00065] in <6297cf863591482c869f99d22a768126>:0
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] Rethrow as IOException: Unable to read data from the transport connection: Thread was being aborted..
+[2026-10-29 21:18:07.247 +00:00] [STDOUT]   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, System.Int32 offset, System.Int32 size) [0x000ac] in <6297cf863591482c869f99d22a768126>:0
+[2026-10-29 21:18:07.247 +00:00] [STDOUT]   at ServerOutput.TcpConsole.Receive () [0x0000d] in <cf96f89a5a5b4a3ab4b8fd43c1e10abe>:0
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] UnityEngine.DebugLogHandler:LogException(Exception, Object)
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] UnityEngine.Logger:LogException(Exception, Object)
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] UnityEngine.Debug:LogException(Exception)
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] ServerOutput.TcpConsole:Receive()
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] System.Threading.ThreadHelper:ThreadStart_Context(Object)
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+[2026-10-29 21:18:07.247 +00:00] [STDOUT] System.Threading.ThreadHelper:ThreadStart()
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Increase') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Decrease') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'FullscreenToggle') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'ServerInfo') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Dropdown') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Main Menu') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Main Menu') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'GFX') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'KeyBinding') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Credits') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Main Menu') is missing!
+[2026-10-29 21:18:07.248 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'VSync') is missing!
+[2026-10-29 21:18:07.249 +00:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Button') is missing!
+[2026-10-29 21:18:07.249 +00:00] [STDOUT] Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+[2026-10-29 21:18:07.315 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.315 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.315 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.315 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.315 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.315 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.315 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.317 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.318 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.318 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.318 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.320 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.320 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.320 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.321 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.324 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.325 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.325 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.327 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.328 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.328 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.328 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.329 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.331 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.331 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.331 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.331 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.331 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.331 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.331 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.332 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.332 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.332 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.435 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.450 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.451 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.454 +00:00] [STDOUT] Trying to access a shader but no shaders were included in the build because Dedicated Server Optimizations is enabled.
+[2026-10-29 21:18:07.457 +00:00] [STDOUT] UnloadTime: 158.572152 ms
+[2026-10-29 21:18:07.512 +00:00] [STDOUT] Missing **FALLBACK** translation! Items:59. Default value: NO_TRANSLATION
+[2026-10-29 21:18:07.832 +00:00] [STDOUT] Unloading 1392 unused Assets to reduce memory usage. Loaded Objects now: 493517.
+[2026-10-29 21:18:07.832 +00:00] [STDOUT] Total: 240.452146 ms (FindLiveObjects: 27.774690 ms CreateObjectMapping: 26.091565 ms MarkObjects: 184.571463 ms  DeleteObjects: 2.013566 ms)
+[2026-10-29 21:18:07.854 +00:00] [STDOUT] --PoolManager - Average required pool objects per round--
+[2026-10-29 21:18:07.854 +00:00] [STDOUT] --End of Log--
+[2026-10-29 21:18:08.214 +00:00] [STDOUT] [Physics::Module] Cleanup current backned.
+[2026-10-29 21:18:08.214 +00:00] [STDOUT] [Physics::Module] Id: 0xf2b8ea05
+[2026-10-29 21:18:08.214 +00:00] [STDOUT] Input System module state changed to: ShutdownInProgress.
+[2026-10-29 21:18:08.214 +00:00] [STDOUT] Input System polling thread exited.
+[2026-10-29 21:18:08.214 +00:00] [STDOUT] Input System module state changed to: Shutdown.
+[2026-10-29 21:18:08.354 +00:00] Game process exited and has been killed, no need to kill it.
+[2026-10-29 21:18:08.354 +00:00] --- END OF LOG ---

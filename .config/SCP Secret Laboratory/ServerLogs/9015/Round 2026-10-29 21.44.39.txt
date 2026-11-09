@@ -1,0 +1,64 @@
+2026-10-29 21:44:39.655Z | Internal            | Game logic     | Started logging.
+2026-10-29 21:44:39.655Z | Internal            | Game logic     | Game version: 14.2.8.
+2026-10-29 21:44:39.655Z | Internal            | Game logic     | Build type: Release.
+2026-10-29 21:44:39.655Z | Internal            | Game logic     | Build timestamp: 2026-10-12 18:32:38Z.
+2026-10-29 21:44:39.655Z | Internal            | Game logic     | Headless: True.
+2026-10-29 21:44:45.353Z | Connection update   | Networking     | 76561199444892781@steam preauthenticated from endpoint 93.106.2.121:31988.
+2026-10-29 21:44:52.879Z | Connection update   | Networking     | 76561199444892781@steam authenticated from endpoint 93.106.2.121:31988. Player ID assigned: 5. Auth token serial number: li1phED5-ZJhLr7Hh.
+2026-10-29 21:44:52.879Z | Connection update   | Networking     | Nickname of 76561199444892781@steam is now Amaya.
+2026-10-29 21:44:52.879Z | Connection update   | Permissions    | Amaya (76561199444892781@steam) has been assigned to group Weirdo Owner.
+2026-10-29 21:45:53.828Z | Connection update   | Networking     | 76561199486078000@steam preauthenticated from endpoint 85.163.107.250:58881.
+2026-10-29 21:45:59.902Z | Connection update   | Networking     | 76561199486078000@steam authenticated from endpoint 85.163.107.250:58881. Player ID assigned: 6. Auth token serial number: 9E2Wx49g-bxkv0sfM.
+2026-10-29 21:45:59.902Z | Connection update   | Networking     | Nickname of 76561199486078000@steam is now Playgui31.
+2026-10-29 21:45:59.902Z | Connection update   | Permissions    | Playgui31 (76561199486078000@steam) has been assigned to group Weirdo Owner.
+2026-10-29 21:46:22.332Z | Remote Admin - Misc | Administrative | Playgui31 (76561199486078000@steam) enabled global intercom transmission for player Playgui31 (76561199486078000@steam).
+2026-10-29 21:46:30.232Z | Remote Admin - Misc | Administrative | Playgui31 (76561199486078000@steam) enabled global intercom transmission for player Playgui31 (76561199486078000@steam).
+2026-10-29 21:46:30.415Z | Remote Admin - Misc | Administrative | Playgui31 (76561199486078000@steam) enabled global intercom transmission for player Playgui31 (76561199486078000@steam).
+2026-10-29 21:46:30.598Z | Remote Admin - Misc | Administrative | Playgui31 (76561199486078000@steam) enabled global intercom transmission for player Playgui31 (76561199486078000@steam).
+2026-10-29 21:46:31.281Z | Remote Admin - Misc | Administrative | Playgui31 (76561199486078000@steam) enabled global intercom transmission for player Playgui31 (76561199486078000@steam).
+2026-10-29 21:46:31.715Z | Remote Admin - Misc | Administrative | Playgui31 (76561199486078000@steam) enabled global intercom transmission for player Playgui31 (76561199486078000@steam).
+2026-10-29 21:46:37.565Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) disabled lobby lock.
+2026-10-29 21:46:38.799Z | Game Event          | Game logic     | Round has been started.
+2026-10-29 21:46:38.799Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) forced round start.
+2026-10-29 21:46:51.616Z | Game Event          | Door           | Amaya (76561199444892781@steam) opened 173_CONNECTOR.
+2026-10-29 21:46:51.765Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) teleported themself to player Playgui31 (76561199486078000@steam).
+2026-10-29 21:46:53.382Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) teleported themself to player Amaya (76561199444892781@steam).
+2026-10-29 21:46:56.382Z | Remote Admin - Misc | Administrative | Playgui31 (76561199486078000@steam) disabled global intercom transmission for player Playgui31 (76561199486078000@steam).
+2026-10-29 21:47:04.365Z | Game Event          | Class change   | is now impersonating Amaya, playing as Scientist.
+2026-10-29 21:47:20.400Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran close on the following door(s): **
+2026-10-29 21:47:27.135Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): **
+2026-10-29 21:47:32.667Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran repair on the following door(s): **
+2026-10-29 21:47:34.349Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): **
+2026-10-29 21:47:34.649Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran repair on the following door(s): **
+2026-10-29 21:47:34.899Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): **
+2026-10-29 21:47:37.000Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): **
+2026-10-29 21:47:37.866Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): **
+2026-10-29 21:47:38.083Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): **
+2026-10-29 21:47:38.499Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran lock on the following door(s): **
+2026-10-29 21:47:41.566Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran unlock on the following door(s): **
+2026-10-29 21:47:50.616Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran repair on the following door(s): **
+2026-10-29 21:47:51.666Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran unlock on the following door(s): **
+2026-10-29 21:47:52.516Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran lock on the following door(s): **
+2026-10-29 21:47:56.033Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran unlock on the following door(s): **
+2026-10-29 21:47:57.934Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran open on the following door(s): **
+2026-10-29 21:48:04.449Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): 079_ARMORY
+2026-10-29 21:48:04.683Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): 079_ARMORY
+2026-10-29 21:48:06.283Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): HCZ_127_LAB
+2026-10-29 21:48:07.366Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): LCZ_WC
+2026-10-29 21:48:07.749Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): LCZ_WC
+2026-10-29 21:48:09.499Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): LCZ_ARMORY
+2026-10-29 21:48:10.549Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): LCZ_ARMORY
+2026-10-29 21:48:11.999Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran unlock on the following door(s): HID_LAB
+2026-10-29 21:48:12.350Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): HID_LAB
+2026-10-29 21:48:13.400Z | Game Event          | Door           | Amaya (76561199444892781@steam) closed 173_CONNECTOR.
+2026-10-29 21:48:13.850Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): ESCAPE_FINAL
+2026-10-29 21:48:17.700Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): 173_ARMORY
+2026-10-29 21:48:20.983Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): 096
+2026-10-29 21:48:22.401Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) ran destroy on the following door(s): 049_ARMORY
+2026-10-29 21:48:32.134Z | Game Event          | Class change   | is no longer disguised.
+2026-10-29 21:48:34.667Z | Game Event          | Class change   | is no longer disguised.
+2026-10-29 21:48:41.101Z | Game Event          | Class change   | is no longer disguised.
+2026-10-29 21:48:46.216Z | Game Event          | Class change   | is now impersonating Amaya, playing as Class-D Personnel.
+2026-10-29 21:48:58.469Z | Remote Admin        | Class change   | Playgui31 (76561199486078000@steam) changed role of player Playgui31 (76561199486078000@steam) to Scp049.
+2026-10-29 21:48:59.393Z | Game Event          | Game logic     | Round finished! Anomalies: 2 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2026-10-29 21:49:10.883Z | Game Event          | Class change   | is no longer disguised.

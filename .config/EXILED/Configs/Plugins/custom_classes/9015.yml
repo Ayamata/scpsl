@@ -1,0 +1,316 @@
+is_enabled: true
+debug: false
+announce_class_to_player: true
+announcement_duration: 5
+apply_health: true
+apply_spawn_effects: true
+allow_random_assignment: true
+admin_permission: 'customclasses.admin'
+classes:
+- id: 'field_medic'
+  name: 'Field Medic'
+  custom_info: 'Foundation Medical'
+  base_roles:
+  - 'FacilityGuard'
+  - 'NtfPrivate'
+  spawn_weight: 10
+  max_health: 110
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'senior_medic'
+  name: 'Senior Medic'
+  custom_info: 'Foundation Medical'
+  base_roles:
+  - 'NtfSpecialist'
+  - 'NtfSergeant'
+  spawn_weight: 10
+  max_health: 125
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'research_assistant'
+  name: 'Research Assistant'
+  custom_info: 'Research Division'
+  base_roles:
+  - 'Scientist'
+  spawn_weight: 10
+  max_health: 100
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'senior_researcher'
+  name: 'Senior Researcher'
+  custom_info: 'Research Division'
+  base_roles:
+  - 'Scientist'
+  spawn_weight: 10
+  max_health: 110
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'containment_analyst'
+  name: 'Containment Analyst'
+  custom_info: 'Containment Division'
+  base_roles:
+  - 'Scientist'
+  spawn_weight: 10
+  max_health: 105
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'security_recruit'
+  name: 'Security Recruit'
+  custom_info: 'Facility Security'
+  base_roles:
+  - 'FacilityGuard'
+  spawn_weight: 10
+  max_health: 100
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'security_veteran'
+  name: 'Security Veteran'
+  custom_info: 'Facility Security'
+  base_roles:
+  - 'FacilityGuard'
+  spawn_weight: 10
+  max_health: 125
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'security_commander'
+  name: 'Security Commander'
+  custom_info: 'Facility Security'
+  base_roles:
+  - 'NtfSergeant'
+  - 'NtfCaptain'
+  spawn_weight: 10
+  max_health: 140
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'ntf_operator'
+  name: 'NTF Operator'
+  custom_info: 'Mobile Task Force'
+  base_roles:
+  - 'NtfPrivate'
+  - 'NtfSpecialist'
+  spawn_weight: 10
+  max_health: 115
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'ntf_coordinator'
+  name: 'NTF Coordinator'
+  custom_info: 'Mobile Task Force'
+  base_roles:
+  - 'NtfSergeant'
+  spawn_weight: 10
+  max_health: 120
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'logistics_officer'
+  name: 'Logistics Officer'
+  custom_info: 'Foundation Logistics'
+  base_roles:
+  - 'FacilityGuard'
+  spawn_weight: 10
+  max_health: 105
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'maintenance_tech'
+  name: 'Maintenance Technician'
+  custom_info: 'Engineering Division'
+  base_roles:
+  - 'FacilityGuard'
+  spawn_weight: 10
+  max_health: 115
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'site_administrator'
+  name: 'Site Administrator'
+  custom_info: 'Site Command'
+  base_roles:
+  - 'NtfCaptain'
+  spawn_weight: 10
+  max_health: 120
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'classd_inmate'
+  name: 'Inmate'
+  custom_info: 'Class-D Personnel'
+  base_roles:
+  - 'ClassD'
+  spawn_weight: 10
+  max_health: 100
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'classd_troublemaker'
+  name: 'Troublemaker'
+  custom_info: 'Class-D Personnel'
+  base_roles:
+  - 'ClassD'
+  spawn_weight: 10
+  max_health: 110
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'classd_survivor'
+  name: 'Long-Term Survivor'
+  custom_info: 'Class-D Personnel'
+  base_roles:
+  - 'ClassD'
+  spawn_weight: 10
+  max_health: 125
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'classd_informant'
+  name: 'Informant'
+  custom_info: 'Class-D Personnel'
+  base_roles:
+  - 'ClassD'
+  spawn_weight: 10
+  max_health: 105
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'chaos_recruit'
+  name: 'Insurgent Recruit'
+  custom_info: 'Chaos Insurgency'
+  base_roles:
+  - 'ChaosConscript'
+  spawn_weight: 10
+  max_health: 110
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'chaos_veteran'
+  name: 'Insurgent Veteran'
+  custom_info: 'Chaos Insurgency'
+  base_roles:
+  - 'ChaosRifleman'
+  spawn_weight: 10
+  max_health: 130
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'chaos_medic'
+  name: 'Insurgent Medic'
+  custom_info: 'Chaos Medical'
+  base_roles:
+  - 'ChaosRifleman'
+  spawn_weight: 10
+  max_health: 120
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'chaos_engineer'
+  name: 'Insurgent Engineer'
+  custom_info: 'Chaos Engineering'
+  base_roles:
+  - 'ChaosRepressor'
+  spawn_weight: 10
+  max_health: 115
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'chaos_commander'
+  name: 'Insurgent Commander'
+  custom_info: 'Chaos Command'
+  base_roles:
+  - 'ChaosMarauder'
+  spawn_weight: 10
+  max_health: 145
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'scp_alpha'
+  name: 'SCP Variant: Alpha'
+  custom_info: 'Anomalous Entity'
+  base_roles:
+  - 'Scp049'
+  - 'Scp096'
+  spawn_weight: 10
+  max_health: 1150
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'scp_beta'
+  name: 'SCP Variant: Beta'
+  custom_info: 'Anomalous Entity'
+  base_roles:
+  - 'Scp173'
+  - 'Scp939'
+  spawn_weight: 10
+  max_health: 1250
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []
+- id: 'scp_gamma'
+  name: 'SCP Variant: Gamma'
+  custom_info: 'Anomalous Entity'
+  base_roles:
+  - 'Scp106'
+  - 'Scp3114'
+  spawn_weight: 10
+  max_health: 1350
+  override_name: true
+  can_be_selected: true
+  required_permission: ''
+  spawn_announcement: ''
+  spawn_effects: []

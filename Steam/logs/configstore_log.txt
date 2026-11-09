@@ -1,0 +1,93 @@
+
+
+[2026-10-29 20:18:54] Client version: 1792617903
+[2026-10-29 20:18:54] Failed to read store 'install' from '/mnt/server/Steam/config/config.vdf.tmp'
+[2026-10-29 20:18:54] Failed to read store 'install' from '/mnt/server/Steam/config/config.vdf.tmp'
+[2026-10-29 20:18:54] Failed to read store 'install' from '/mnt/server/Steam/config/config.vdf.tmp'
+[2026-10-29 20:18:54] Failed to read store 'install' from '/mnt/server/Steam/config/config.vdf.tmp'
+[2026-10-29 20:18:55] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-10-29 20:18:55] Failed to read store 'userlocal' from '/mnt/server/Steam/userdata/anonymous/config/localconfig.vdf.tmp'
+[2026-10-29 20:18:55] Loaded store 'install' from '/mnt/server/Steam/config/config.vdf' successfully
+[2026-10-29 20:18:55] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-10-29 20:18:57] Flushed store 'userlocal' to '/mnt/server/Steam/userdata/anonymous/config/localconfig.vdf'
+[2026-10-29 20:18:58] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-10-29 20:19:01] Flushed store 'userlocal' to '/mnt/server/Steam/userdata/anonymous/config/localconfig.vdf'
+[2026-10-29 20:19:02] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-10-29 20:19:02] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+
+
+[2026-10-29 20:19:17] Client version: 1792617903
+[2026-10-29 20:19:17] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:19:17] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:19:17] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:19:17] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:19:17] Loaded store 'userlocal' from '/home/container/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-10-29 20:19:18] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:19:18] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+[2026-10-29 20:19:19] Flushed store 'userlocal' to '/home/container/Steam/userdata/anonymous/config/localconfig.vdf'
+
+
+[2026-10-29 20:19:35] Client version: 1792617903
+[2026-10-29 20:19:35] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:19:35] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:19:35] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:19:35] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:19:36] Loaded store 'userlocal' from '/home/container/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-10-29 20:19:36] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:19:36] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+[2026-10-29 20:19:37] Flushed store 'userlocal' to '/home/container/Steam/userdata/anonymous/config/localconfig.vdf'
+
+
+[2026-10-29 20:49:06] Client version: 1792617903
+[2026-10-29 20:49:06] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:49:06] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:49:06] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:49:06] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:49:07] Loaded store 'userlocal' from '/home/container/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-10-29 20:49:07] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-29 20:49:07] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+[2026-10-29 20:49:08] Flushed store 'userlocal' to '/home/container/Steam/userdata/anonymous/config/localconfig.vdf'
+
+
+[2026-10-30 12:06:06] Client version: 1792617903
+[2026-10-30 12:06:06] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-30 12:06:06] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-30 12:06:06] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-30 12:06:06] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-30 12:06:07] Loaded store 'userlocal' from '/home/container/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-10-30 12:06:07] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-30 12:06:07] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+[2026-10-30 12:06:09] Flushed store 'userlocal' to '/home/container/Steam/userdata/anonymous/config/localconfig.vdf'
+
+
+[2026-10-30 12:14:26] Client version: 1792617903
+[2026-10-30 12:14:26] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-30 12:14:26] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-30 12:14:26] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-30 12:14:26] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-30 12:14:27] Loaded store 'userlocal' from '/home/container/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-10-30 12:14:27] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-30 12:14:27] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+[2026-10-30 12:14:28] Flushed store 'userlocal' to '/home/container/Steam/userdata/anonymous/config/localconfig.vdf'
+
+
+[2026-10-31 21:10:12] Client version: 1792617903
+[2026-10-31 21:10:12] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-31 21:10:12] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-31 21:10:12] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-31 21:10:12] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-31 21:10:12] Loaded store 'userlocal' from '/home/container/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-10-31 21:10:13] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-31 21:10:13] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+[2026-10-31 21:10:14] Flushed store 'userlocal' to '/home/container/Steam/userdata/anonymous/config/localconfig.vdf'
+
+
+[2026-10-31 21:17:23] Client version: 1792617903
+[2026-10-31 21:17:23] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-31 21:17:23] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-31 21:17:23] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-31 21:17:23] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-31 21:17:24] Loaded store 'userlocal' from '/home/container/Steam/userdata/anonymous/config/localconfig.vdf' successfully
+[2026-10-31 21:17:24] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-10-31 21:17:24] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+[2026-10-31 21:17:25] Flushed store 'userlocal' to '/home/container/Steam/userdata/anonymous/config/localconfig.vdf'

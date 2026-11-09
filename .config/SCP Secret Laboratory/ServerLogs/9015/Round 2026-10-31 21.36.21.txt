@@ -1,0 +1,10 @@
+2026-10-31 21:36:21.630Z | Internal            | Game logic     | Started logging.
+2026-10-31 21:36:21.631Z | Internal            | Game logic     | Game version: 14.2.8.
+2026-10-31 21:36:21.631Z | Internal            | Game logic     | Build type: Release.
+2026-10-31 21:36:21.631Z | Internal            | Game logic     | Build timestamp: 2026-10-12 18:32:38Z.
+2026-10-31 21:36:21.631Z | Internal            | Game logic     | Headless: True.
+2026-10-31 21:37:45.250Z | Connection update   | Networking     | 76561199444892781@steam preauthenticated from endpoint 176.72.95.153:57817.
+2026-10-31 21:37:52.637Z | Connection update   | Networking     | 76561199444892781@steam authenticated from endpoint 176.72.95.153:57817. Player ID assigned: 2. Auth token serial number: MV1RUC7J-OT8eLgBv.
+2026-10-31 21:37:52.640Z | Connection update   | Networking     | Nickname of 76561199444892781@steam is now Amaya.
+2026-10-31 21:37:52.645Z | Connection update   | Permissions    | Amaya (76561199444892781@steam) has been assigned to group Weirdo Owner.
+2026-10-31 21:40:47.354Z | Remote Admin        | Administrative | Amaya (76561199444892781@steam) redirected all players to port 9070.

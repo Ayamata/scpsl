@@ -1,0 +1,96 @@
+
+
+[2026-10-29 20:18:55] Client version: 1792617903
+[2026-10-29 20:18:55] Loaded 0 apps from install folder "/mnt/server/steamapps\appmanifest_*.acf".
+[2026-10-29 20:18:55] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-10-29 20:19:01] AppID 996560 state changed : Update Required,
+[2026-10-29 20:19:01] AppID 996560 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-10-29 20:19:01] AppID 996560 state changed : Update Required,Update Queued,
+[2026-10-29 20:19:01] AppID 996560 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-10-29 20:19:01] AppID 996560 state changed : Update Required,Update Queued,Update Running,
+[2026-10-29 20:19:01] AppID 996560 App update changed : Running Update,
+[2026-10-29 20:19:01] AppID 996560 App update changed : Running Update,Reconfiguring,
+[2026-10-29 20:19:01] Got 15 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 3)
+[2026-10-29 20:19:01] Moving to source priority class '5'
+[2026-10-29 20:19:01] Created download interface of type 'SteamCache' (7) to host cache16-lhr1.steamcontent.com (cache16-lhr1.steamcontent.com)
+[2026-10-29 20:19:01] Created download interface of type 'SteamCache' (7) to host cache14-lhr1.steamcontent.com (cache14-lhr1.steamcontent.com)
+[2026-10-29 20:19:01] HTTP/2 available
+[2026-10-29 20:19:01] Created ipv4-only http client
+[2026-10-29 20:19:02] HTTPS (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/1006/manifest/4559160656493359681/5/6143007047233136564 - manifest request received 200 (OK) HTTP response
+[2026-10-29 20:19:02] Moving to source priority class '5'
+[2026-10-29 20:19:02] Created download interface of type 'SteamCache' (7) to host cache11-lhr1.steamcontent.com (cache11-lhr1.steamcontent.com)
+[2026-10-29 20:19:02] Created download interface of type 'SteamCache' (7) to host cache12-lhr1.steamcontent.com (cache12-lhr1.steamcontent.com)
+[2026-10-29 20:19:02] Created download interface of type 'SteamCache' (7) to host cache7-lhr1.steamcontent.com (cache7-lhr1.steamcontent.com)
+[2026-10-29 20:19:02] Created download interface of type 'SteamCache' (7) to host cache5-lhr1.steamcontent.com (cache5-lhr1.steamcontent.com)
+[2026-10-29 20:19:02] Created download interface of type 'SteamCache' (7) to host cache10-lhr1.steamcontent.com (cache10-lhr1.steamcontent.com)
+[2026-10-29 20:19:02] Created download interface of type 'SteamCache' (7) to host cache9-lhr1.steamcontent.com (cache9-lhr1.steamcontent.com)
+[2026-10-29 20:19:03] HTTPS (SteamCache,261) - cache11-lhr1.steamcontent.com (162.254.196.18:443 / 162.254.196.18:443, host: cache11-lhr1.steamcontent.com): cache11-lhr1.steamcontent.com/depot/996562/manifest/7442937821432522264/5/13051855252481470877 - manifest request received 200 (OK) HTTP response
+[2026-10-29 20:19:03] AppID 996560 App update changed : Running Update,
+[2026-10-29 20:19:03] AppID 996560 App update changed : Running Update,Verifying Installed,
+[2026-10-29 20:19:03] AppID 996560 App update changed : Running Update,
+[2026-10-29 20:19:03] AppID 996560 App update changed : Running Update,Preallocating,
+[2026-10-29 20:19:03] AppID 996560 preallocated 0 files (0 MB) 
+[2026-10-29 20:19:03] AppID 996560 App update changed : Running Update,
+[2026-10-29 20:19:03] AppID 996560 update started : download 0/189197632, store 0/0, reuse 0/0, delta 0/0, stage 0/599246831 
+[2026-10-29 20:19:03] AppID 996560 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-10-29 20:19:03] AppID 996560 App update changed : Running Update,Downloading,Staging,
+[2026-10-29 20:19:03] Downloading 108 chunks for depot 1006 (4559160656493359681)
+[2026-10-29 20:19:07] Downloading 741 chunks for depot 996562 (7442937821432522264)
+[2026-10-29 20:19:07] Detected write gap 77 MB in file "SCPSL_Data\resources.assets"
+[2026-10-29 20:19:08] AppID 996560 App update changed : Running Update,
+[2026-10-29 20:19:08] AppID 996560 App update changed : Running Update,Verifying Staged,
+[2026-10-29 20:19:09] Verified 571 MB in '/mnt/server/Steam', clean bytes tally is now 571 MB
+[2026-10-29 20:19:09] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-10-29 20:19:09] AppID 996560 App update changed : Running Update,
+[2026-10-29 20:19:09] AppID 996560 App update changed : Running Update,Committing,
+[2026-10-29 20:19:09] AppID 996560 starting commit from "/mnt/server/steamapps/downloading/996560" to "/mnt/server" : 285 updated, 0 moved, 0 deleted files
+[2026-10-29 20:19:09] AppID 996560 state changed : Fully Installed,Update Queued,Update Running,
+[2026-10-29 20:19:09] AppID 996560 finished update, 2 mounted depots (BuildID 25890254) : 1006 (4559160656493359681),996562 (7442937821432522264),
+[2026-10-29 20:19:09] AppID 996560 App update changed : Running Update,
+[2026-10-29 20:19:09] AppID 996560 App update changed : None
+[2026-10-29 20:19:09] AppID 996560 state changed : Fully Installed,Update Queued,
+[2026-10-29 20:19:09] AppID 996560 state changed : Fully Installed,
+[2026-10-29 20:19:09] AppID 996560 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-10-29 20:19:11] HTTPS (SteamCache,259) - cache9-lhr1.steamcontent.com (162.254.196.20:443 / 162.254.196.20:443, host: cache9-lhr1.steamcontent.com): Closing connection
+[2026-10-29 20:19:11] HTTPS (SteamCache,260) - cache10-lhr1.steamcontent.com (162.254.196.22:443 / 162.254.196.22:443, host: cache10-lhr1.steamcontent.com): Closing connection
+[2026-10-29 20:19:11] HTTPS (SteamCache,147) - cache5-lhr1.steamcontent.com (162.254.196.5:443 / 162.254.196.5:443, host: cache5-lhr1.steamcontent.com): Closing connection
+[2026-10-29 20:19:11] HTTPS (SteamCache,228) - cache7-lhr1.steamcontent.com (162.254.196.6:443 / 162.254.196.6:443, host: cache7-lhr1.steamcontent.com): Closing connection
+[2026-10-29 20:19:11] HTTPS (SteamCache,262) - cache12-lhr1.steamcontent.com (162.254.196.14:443 / 162.254.196.14:443, host: cache12-lhr1.steamcontent.com): Closing connection
+[2026-10-29 20:19:11] HTTPS (SteamCache,261) - cache11-lhr1.steamcontent.com (162.254.196.18:443 / 162.254.196.18:443, host: cache11-lhr1.steamcontent.com): Closing connection
+[2026-10-29 20:19:11] HTTPS (SteamCache,365) - cache14-lhr1.steamcontent.com (162.254.196.24:443 / 162.254.196.24:443, host: cache14-lhr1.steamcontent.com): Closing connection
+[2026-10-29 20:19:11] HTTPS (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Closing connection
+
+
+[2026-10-29 20:19:18] Client version: 1792617903
+[2026-10-29 20:19:18] Loaded 1 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-10-29 20:19:18] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-10-29 20:19:36] Client version: 1792617903
+[2026-10-29 20:19:36] Loaded 1 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-10-29 20:19:36] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-10-29 20:49:07] Client version: 1792617903
+[2026-10-29 20:49:07] Loaded 1 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-10-29 20:49:07] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-10-30 12:06:07] Client version: 1792617903
+[2026-10-30 12:06:07] Loaded 1 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-10-30 12:06:07] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-10-30 12:14:27] Client version: 1792617903
+[2026-10-30 12:14:27] Loaded 1 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-10-30 12:14:27] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-10-31 21:10:12] Client version: 1792617903
+[2026-10-31 21:10:12] Loaded 1 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-10-31 21:10:12] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2026-10-31 21:17:24] Client version: 1792617903
+[2026-10-31 21:17:24] Loaded 1 apps from install folder "/home/container/steamapps\appmanifest_*.acf".
+[2026-10-31 21:17:24] Triggered async write of Steam library folders configuration (1 libraries).

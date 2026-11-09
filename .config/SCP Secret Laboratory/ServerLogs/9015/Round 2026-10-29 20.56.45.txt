@@ -1,0 +1,9 @@
+2026-10-29 20:56:45.166Z | Internal            | Game logic     | Started logging.
+2026-10-29 20:56:45.166Z | Internal            | Game logic     | Game version: 14.2.8.
+2026-10-29 20:56:45.166Z | Internal            | Game logic     | Build type: Release.
+2026-10-29 20:56:45.166Z | Internal            | Game logic     | Build timestamp: 2026-10-12 18:32:38Z.
+2026-10-29 20:56:45.166Z | Internal            | Game logic     | Headless: True.
+2026-10-29 20:56:52.946Z | Connection update   | Networking     | 76561199486078000@steam preauthenticated from endpoint 85.163.107.250:56535.
+2026-10-29 20:56:59.151Z | Connection update   | Networking     | 76561199486078000@steam authenticated from endpoint 85.163.107.250:56535. Player ID assigned: 5. Auth token serial number: 9E2Wx49g-RPomuMok.
+2026-10-29 20:56:59.151Z | Connection update   | Networking     | Nickname of 76561199486078000@steam is now Playgui31.
+2026-10-29 20:57:32.701Z | Remote Admin        | Administrative | SERVER CONSOLE stopped the server.

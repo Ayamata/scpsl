@@ -1,0 +1,159 @@
+#Let's assign roles (you can modify them and create custom roles below)
+#UserID format is SteamId64Here@steam, DiscordUserIDHere@discord, etc...
+Members:
+ - 76561199444892781@steam: owner
+ - 76561199486078000@steam: owner
+ - AnotherSteamId64@steam: admin
+ - SomeDiscordUserId@discord: moderator
+
+#Should Secret Lab development staff be able to use the Remote Admin?
+enable_staff_access: false
+
+#Should Secret Lab CEO and managers be able to use Remote Admin? (We do not abuse our powers) 
+enable_manager_access: true
+
+#Allow remote admin access for the banning team, to allow them searching and fighting cheaters globally
+enable_banteam_access: true
+
+#Enable reserved slots for the banning team (they are restricted by reserved slots limit set in the gameplay config)
+enable_banteam_reserved_slots: true
+
+#Allow the banning team to bypass georestrictions on the server
+enable_banteam_bypass_geoblocking: true
+
+#Let's define roles
+#use color "none" to disable badge
+#you can add own roles too
+#cover means that this local badge is more important than a global badge and will cover it
+#hidden means that this local badge is hiddeny by default (always you can use "hidetag" and "showtag" commands in game console or text-based remote admin)
+#kick_power is the power for kicking and banning that the member of this group has (can be from 0 to 255)
+#required_kick_power is the required kick power to kick or ban a member of this group (can be from 0 to 255)
+
+# Rank Configuration
+
+owner_badge: Weirdo Owner
+owner_color: red
+owner_cover: true
+owner_hidden: false
+owner_kick_power: 255
+owner_required_kick_power: 255
+
+coowner_badge: Co-Owner
+coowner_color: red
+coowner_cover: true
+coowner_hidden: false
+coowner_kick_power: 200
+coowner_required_kick_power: 200
+
+developer_badge: Developer
+developer_color: cyan
+developer_cover: true
+developer_hidden: false
+developer_kick_power: 100
+developer_required_kick_power: 100
+
+jrdev_badge: Junior Developer
+jrdev_color: aqua
+jrdev_cover: true
+jrdev_hidden: false
+jrdev_kick_power: 75
+jrdev_required_kick_power: 75
+
+admin_badge: Admin
+admin_color: red
+admin_cover: true
+admin_hidden: false
+admin_kick_power: 1
+admin_required_kick_power: 2
+
+mod_badge: Mod
+mod_color: silver
+mod_cover: true
+mod_hidden: false
+mod_kick_power: 0
+mod_required_kick_power: 1
+
+jrmod_badge: Junior Mod
+jrmod_color: silver
+jrmod_cover: true
+jrmod_hidden: false
+jrmod_kick_power: 0
+jrmod_required_kick_power: 0
+
+twitch_badge: Twitch
+twitch_color: magenta
+twitch_cover: true
+twitch_hidden: false
+twitch_kick_power: 0
+twitch_required_kick_power: 0
+
+# Roles
+
+Roles:
+ - owner
+ - coowner
+ - developer
+ - jrdev
+ - admin
+ - mod
+ - jrmod
+ - twitch
+
+# Permissions
+
+Permissions:
+ - KickingAndShortTermBanning: [owner, coowner, developer, admin, mod]
+ - BanningUpToDay: [owner, coowner, developer, admin, mod]
+ - LongTermBanning: [owner, coowner, admin]
+ - ForceclassSelf: [owner, coowner, developer, jrdev, admin, mod, jrmod]
+ - ForceclassToSpectator: [owner, coowner, developer, admin, mod]
+ - ForceclassWithoutRestrictions: [owner, coowner, developer, admin]
+ - GivingItems: [owner, coowner, developer, admin]
+ - WarheadEvents: [owner, coowner, developer, admin, mod]
+ - RespawnEvents: [owner, coowner, developer, admin]
+ - RoundEvents: [owner, coowner, developer, admin, mod]
+ - SetGroup: [owner, coowner]
+ - GameplayData: [owner, coowner, developer, admin]
+ - Overwatch: [owner, coowner, developer, admin, mod]
+ - FacilityManagement: [owner, coowner, developer, admin, mod]
+ - PlayersManagement: [owner, coowner, developer, admin]
+ - PermissionsManagement: [owner, coowner]
+ - ServerConsoleCommands: [owner]
+ - ViewHiddenBadges: [owner, coowner, developer, admin, mod]
+ - ServerConfigs: [owner, coowner]
+ - Broadcasting: [owner, coowner, developer, admin, mod]
+ - PlayerSensitiveDataAccess: [owner, coowner, developer, admin, mod]
+ - Noclip: [owner, coowner, developer, admin]
+ - AFKImmunity: [owner, coowner, developer, admin]
+ - AdminChat: [owner, coowner, developer, admin, mod, jrmod]
+ - ViewHiddenGlobalBadges: [owner, coowner, developer, admin, mod]
+ - Announcer: [owner, coowner, developer, admin]
+ - Effects: [owner, coowner, developer, admin]
+ - FriendlyFireDetectorImmunity: [owner, coowner, developer, admin, mod]
+ - FriendlyFireDetectorTempDisable: [owner, coowner, developer, admin]
+ - ServerLogLiveFeed: [owner, coowner, developer, admin]
+ - ExecuteAs: [owner, coowner]
+ - Vanish: [owner, coowner, developer]
+
+#Set to "none" in order to disable password.
+#WE DON'T RECOMMEND USING PASSWORD!!!
+#SETUP STEAMID AUTHENTICATION INSTEAD (of the top of this config file)!
+override_password: none
+override_password_role: owner
+
+#Allows running central server commands (they are prefixed with "!") using "sudo"/"cron" command in RA (requires ServerConsoleCommands permission).
+#Don't turn on unless you fully trust all people with this permission, they needs to run that commands from RA and you know what are you doing
+allow_central_server_commands_as_ServerConsoleCommands: false
+
+# Should the GUI-Based RA use the predefined ban templates below?
+enable_predefined_ban_templates: true
+
+# Here you can define ban templates for your staff members to use in-game. This can always be overriden by choosing the "Custom" ban tab
+# FORMAT: - [Duration in seconds, Reason]
+# **Note** The reason cannot contain any commas or it will break the parsing!
+PredefinedBanTemplates:
+ - [0, Consider this a warning!]
+ - [3600, Mic Spamming]
+ - [86400, Team Killing (Minor Offence)]
+ - [604800, Team Killing (Major Offence)]
+ - [1577000000, Abusing Exploits]

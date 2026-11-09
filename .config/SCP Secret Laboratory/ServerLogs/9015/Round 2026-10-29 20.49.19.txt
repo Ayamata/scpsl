@@ -1,0 +1,6 @@
+2026-10-29 20:49:19.570Z | Internal            | Game logic     | Started logging.
+2026-10-29 20:49:19.570Z | Internal            | Game logic     | Game version: 14.2.8.
+2026-10-29 20:49:19.570Z | Internal            | Game logic     | Build type: Release.
+2026-10-29 20:49:19.570Z | Internal            | Game logic     | Build timestamp: 2026-10-12 18:32:38Z.
+2026-10-29 20:49:19.570Z | Internal            | Game logic     | Headless: True.
+2026-10-29 20:50:55.573Z | Remote Admin        | Administrative | SERVER CONSOLE stopped the server.

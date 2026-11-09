@@ -1,0 +1,148 @@
+[2026-10-31 21:10:18.333 +00:00] SCP: Secret Laboratory - LocalAdmin v. 2.5.16
+[2026-10-31 21:10:18.337 +00:00] 
+[2026-10-31 21:10:18.337 +00:00] Licensed under The MIT License (use command "license" to get license text).
+[2026-10-31 21:10:18.337 +00:00] Copyright by Łukasz "zabszk" Jurczyk and KernelError, 2019 - 2024
+[2026-10-31 21:10:18.337 +00:00]
+[2026-10-31 21:10:18.337 +00:00] Type 'help' to get list of available commands.
+[2026-10-31 21:10:18.337 +00:00] 
+[2026-10-31 21:10:18.337 +00:00] Started new session on port 9015.
+[2026-10-31 21:10:18.337 +00:00] Trying to start server...
+[2026-10-31 21:10:18.337 +00:00] Executing: SCPSL.x86_64
+[2026-10-31 21:10:18.337 +00:00] Game process started with PID: 152
+[2026-10-31 21:10:18.337 +00:00] Cursor management has been disabled.
+[2026-10-31 21:10:19.691 +00:00] Loading gameplay config...
+[2026-10-31 21:10:19.701 +00:00] Processing rate limits...
+[2026-10-31 21:10:19.711 +00:00] Rate limiting loaded
+[2026-10-31 21:10:19.721 +00:00] Loading sharing config...
+[2026-10-31 21:10:19.731 +00:00] Processing shares...
+[2026-10-31 21:10:19.742 +00:00] Config sharing loaded.
+[2026-10-31 21:10:19.752 +00:00] Config sharing loaded.
+[2026-10-31 21:10:19.762 +00:00] Validating bans...
+[2026-10-31 21:10:19.772 +00:00] Bans has been validated.
+[2026-10-31 21:10:19.782 +00:00] Whitelist has been loaded.
+[2026-10-31 21:10:19.792 +00:00] Whitelist has been loaded.
+[2026-10-31 21:10:19.802 +00:00] Reserved slots list has been loaded.
+[2026-10-31 21:10:19.812 +00:00] Reserved slots list has been loaded.
+[2026-10-31 21:10:19.822 +00:00] Server tickrate set to: 60
+[2026-10-31 21:10:19.833 +00:00] Can't load the mute file!
+[2026-10-31 21:10:19.843 +00:00] Loaded NorthwoodLib 1.4.0
+[2026-10-31 21:10:19.853 +00:00] SCP Secret Laboratory process started. Creating match...
+[2026-10-31 21:10:19.863 +00:00] Server tickrate set to: 60
+[2026-10-31 21:10:19.873 +00:00] [INFO] [LabApi] [LOADER] Loading all dependencies
+[2026-10-31 21:10:19.883 +00:00] [INFO] [LabApi] [LOADER] Successfully loaded Exiled.API, Version=9.15.2.0, Culture=neutral, PublicKeyToken=null
+[2026-10-31 21:10:19.893 +00:00] [INFO] [LabApi] [LOADER] Successfully loaded Mono.Posix, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756
+[2026-10-31 21:10:19.904 +00:00] [INFO] [LabApi] [LOADER] Successfully loaded SemanticVersioning, Version=2.0.2.0, Culture=neutral, PublicKeyToken=a89bb7dc6f7a145c
+[2026-10-31 21:10:19.914 +00:00] [INFO] [LabApi] [LOADER] Loading all plugins
+[2026-10-31 21:10:19.924 +00:00] [INFO] [LabApi] [LOADER] Successfully loaded Exiled Loader
+[2026-10-31 21:10:19.934 +00:00] [INFO] [LabApi] [LOADER] Enabling all plugins
+[2026-10-31 21:10:19.944 +00:00] [INFO] [Exiled.Loader] Loading EXILED Version: 9.15.2
+[2026-10-31 21:10:19.954 +00:00] [INFO] [Exiled.Loader] Exiled root path set to: /home/container/.config/EXILED
+[2026-10-31 21:10:19.964 +00:00] [INFO] [Exiled.Loader] Initializing at /home/container
+[2026-10-31 21:10:19.975 +00:00] Exiled.API - Version 9.15.2
+[2026-10-31 21:10:19.985 +00:00] Exiled.Loader - Version 9.15.2
+[2026-10-31 21:10:19.995 +00:00] [INFO] [Exiled.Loader] Loading dependencies at /home/container/.config/EXILED/Plugins/dependencies
+[2026-10-31 21:10:20.005 +00:00] [INFO] [Exiled.Loader] Loaded dependency 0Harmony@2.2.2
+[2026-10-31 21:10:20.015 +00:00] [INFO] [Exiled.Loader] Loaded dependency System.ComponentModel.DataAnnotations@4.0.0
+[2026-10-31 21:10:20.025 +00:00] [INFO] [Exiled.Loader] Dependencies loaded successfully!
+[2026-10-31 21:10:20.035 +00:00] [INFO] [Exiled.Loader] Loaded plugin Admin Tools@1.0.0+f80442ba9b94ed2f9f8fbf864c3bdc3e8fb7196c
+[2026-10-31 21:10:20.046 +00:00] [INFO] [Exiled.Loader] Loaded plugin Common Utilities@8.1.2
+[2026-10-31 21:10:20.056 +00:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.CreditTags@9.15.2
+[2026-10-31 21:10:20.066 +00:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.CustomItems@9.15.2
+[2026-10-31 21:10:20.076 +00:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.CustomRoles@9.15.2
+[2026-10-31 21:10:20.087 +00:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.Events@9.15.2
+[2026-10-31 21:10:20.097 +00:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.Permissions@9.15.2
+[2026-10-31 21:10:20.107 +00:00] [INFO] [Exiled.Loader] Loaded plugin Funny Pills@1.4.1
+[2026-10-31 21:10:20.118 +00:00] [INFO] [Exiled.Loader] Loaded plugin KillLogs@9.6.0
+[2026-10-31 21:10:20.128 +00:00] [INFO] [Exiled.Loader] Loaded plugin RainbowTags@3.0.1
+[2026-10-31 21:10:20.138 +00:00] [INFO] [Exiled.Loader] Loaded plugin RemoteKeycard@3.4.2+d6315faae11411759cb56c6033ca8491fe5de557
+[2026-10-31 21:10:20.148 +00:00] [INFO] [Exiled.Loader] Loaded plugin RoundReports@1.0.0+331e9350ffdde4e0c35a41e9e07215333fd5bb3d
+[2026-10-31 21:10:20.158 +00:00] [INFO] [Exiled.Loader] Loaded plugin Scp035@3.0.0+3497efac6b588e91760a59ee4dfa1c132a48415e
+[2026-10-31 21:10:20.168 +00:00] [INFO] [Exiled.Loader] Loading plugin configs... (Separated)
+[2026-10-31 21:10:20.178 +00:00] [INFO] [Exiled.Loader] Plugin configs loaded successfully!
+[2026-10-31 21:10:20.188 +00:00] [INFO] [Exiled.Loader] Loading plugin translations... (Separated)
+[2026-10-31 21:10:20.199 +00:00] [INFO] [Exiled.Loader] Plugin translations loaded successfully!
+[2026-10-31 21:10:20.209 +00:00] [INFO] [Exiled.API] Exiled.Events v9.15.2 by ExMod Team has been enabled!
+[2026-10-31 21:10:20.601 +00:00] [INFO] [Exiled.Events] Non-event patches completed in 00:00:00.5291926
+[2026-10-31 21:10:20.722 +00:00] [INFO] [Exiled.API] Exiled.Permissions v9.15.2 by ExMod Team has been enabled!
+[2026-10-31 21:10:20.752 +00:00] [INFO] [Exiled.API] Exiled.CustomRoles v9.15.2 by ExMod Team has been enabled!
+[2026-10-31 21:10:20.763 +00:00] [INFO] [Exiled.API] Exiled.CustomItems v9.15.2 by ExMod Team has been enabled!
+[2026-10-31 21:10:20.773 +00:00] [INFO] [Exiled.API] Exiled.CreditTags v9.15.2 by Babyboucher20 & iRebbok & Exiled Team has been enabled!
+[2026-10-31 21:10:20.803 +00:00] [INFO] [Exiled.API] Admin Tools v8.0.2 by Exiled-Team has been enabled!
+[2026-10-31 21:10:20.853 +00:00] [INFO] [Exiled.API] Common Utilities v8.1.2 by ExMod-Team has been enabled!
+[2026-10-31 21:10:20.864 +00:00] [INFO] [Scp035] !! This plugin is now maintained by pan_andrzej. Report any issues directly on EXILED discord - https://discord.gg/abRD4ujC. !!
+[2026-10-31 21:10:20.904 +00:00] [INFO] [Exiled.API] Scp035 v1.2.0 by Joker119 has been enabled!
+[2026-10-31 21:10:20.954 +00:00] [INFO] [Exiled.API] RemoteKeycard v3.4.2 by Beryl && Parkeymon (Maintained by Unbistrackted) has been enabled!
+[2026-10-31 21:10:20.964 +00:00] [INFO] [FunnyPills] /home/container/.config/EXILED/Configs/FunnyPills/Funny_Pill.yml
+[2026-10-31 21:10:20.975 +00:00] [INFO] [Exiled.API] RainbowTags v3.0.1 by NotIntense has been enabled!
+[2026-10-31 21:10:20.985 +00:00] [ERROR] [Exiled.Loader] Plugin "KillLogs" threw an exception while enabling: System.InvalidOperationException: The url is not valid
+                                   at DSharp4Webhook.Core.WebhookProvider.CreateWebhook (System.String url, DSharp4Webhook.Core.WebhookProvider provider) [0x0002c] in <4c094f4e81f74fc9b91908f7af09fe48>:0 
+                                   at DSharp4Webhook.Core.WebhookProvider.CreateWebhook (System.String url) [0x00000] in <4c094f4e81f74fc9b91908f7af09fe48>:0 
+                                   at KillLogs.Plugin.OnEnabled () [0x00068] in <b771482c2e104a3fa5abd07b13936328>:0 
+                                   at Exiled.Loader.Loader.EnablePlugins () [0x000c6] in <8c87214dc17648a7810bb8dec3e17f7c>:0
+[2026-10-31 21:10:20.995 +00:00] [WARN] [RoundReports] Missing paste.ee key! RoundReports cannot function without a valid paste.ee key.
+[2026-10-31 21:10:21.005 +00:00] Welcome to 
+                                    ▄████████    ▄████████ ▀████    ▐████▀  ▄█   ▄█          ▄████████ ████████▄
+                                   ███    ███   ███    ███   ███▌   ████▀  ███  ███         ███    ███ ███   ▀███
+                                   ███    █▀    ███    █▀     ███  ▐███    ███▌ ███         ███    █▀  ███    ███
+                                   ███         ▄███▄▄▄        ▀███▄███▀    ███▌ ███        ▄███▄▄▄     ███    ███
+                                 ▀███████████ ▀▀███▀▀▀        ████▀██▄     ███▌ ███       ▀▀███▀▀▀     ███    ███
+                                          ███   ███    █▄    ▐███  ▀███    ███  ███         ███    █▄  ███    ███
+                                    ▄█    ███   ███    ███  ▄███     ███▄  ███  ███▌    ▄   ███    ███ ███   ▄███
+                                  ▄████████▀    ██████████ ████       ███▄ █▀   █████▄▄██   ██████████ ████████▀
+[2026-10-31 21:10:21.015 +00:00] [INFO] [LabApi] [LOADER] Successfully enabled 'Exiled Loader', Version: 9.15.2.0, Author: 'ExMod-Team'
+[2026-10-31 21:10:21.025 +00:00] Selected central server: SBG1 (https://SBG1.scpslgame.com/)
+[2026-10-31 21:10:21.035 +00:00] Running as headless dedicated server. Skipping distribution platform detection.
+[2026-10-31 21:10:21.126 +00:00] Updated list of central servers.
+[2026-10-31 21:10:21.136 +00:00] Central servers count: 1
+[2026-10-31 21:10:21.246 +00:00] Hi there! Initializing console...
+[2026-10-31 21:10:21.256 +00:00] Done! Type 'help' to print the list of available commands.
+[2026-10-31 21:10:21.327 +00:00] Loaded central server public key from cache.
+[2026-10-31 21:10:21.337 +00:00] SHA256 of public key: 8FADDCC0F95FE6DFD96C67CD892CFE5D69D60D6A45D6B5C1226D229AEBD715BC
+[2026-10-31 21:10:21.347 +00:00] Downloading public key from central server...
+[2026-10-31 21:10:21.358 +00:00] Downloaded public key from central server.
+[2026-10-31 21:10:21.368 +00:00] SHA256 of public key: 8FADDCC0F95FE6DFD96C67CD892CFE5D69D60D6A45D6B5C1226D229AEBD715BC
+[2026-10-31 21:10:21.378 +00:00] SHA256 of cached key matches, no need to update cache.
+[2026-10-31 21:10:21.438 +00:00] Game version: 14.2.8
+[2026-10-31 21:10:21.448 +00:00] Loading configs...
+[2026-10-31 21:10:21.458 +00:00] Loading gameplay config...
+[2026-10-31 21:10:21.469 +00:00] Processing rate limits...
+[2026-10-31 21:10:21.479 +00:00] Rate limiting loaded
+[2026-10-31 21:10:21.489 +00:00] Loading sharing config...
+[2026-10-31 21:10:21.499 +00:00] Processing shares...
+[2026-10-31 21:10:21.509 +00:00] Config sharing loaded.
+[2026-10-31 21:10:21.519 +00:00] Validating bans...
+[2026-10-31 21:10:21.529 +00:00] Bans has been validated.
+[2026-10-31 21:10:21.539 +00:00] Whitelist has been loaded.
+[2026-10-31 21:10:21.549 +00:00] Reserved slots list has been loaded.
+[2026-10-31 21:10:21.559 +00:00] Server tickrate set to: 60
+[2026-10-31 21:10:21.570 +00:00] Can't load the mute file!
+[2026-10-31 21:10:21.580 +00:00] Config files loaded from /home/container/.config/SCP Secret Laboratory/config/9015/
+[2026-10-31 21:10:21.590 +00:00] Loading server permissions configuration...
+[2026-10-31 21:10:21.600 +00:00] Server permissions configuration loaded.
+[2026-10-31 21:10:21.610 +00:00] Online mode is ENABLED.
+[2026-10-31 21:10:21.620 +00:00] Starting server...
+[2026-10-31 21:10:21.630 +00:00] Query port disabled in config!
+[2026-10-31 21:10:21.640 +00:00] Obtaining your external IP address...
+[2026-10-31 21:10:21.650 +00:00] Scene Manager: Loaded scene 'FastMenu' [Assets/_Scenes/FastMenu.unity]
+[2026-10-31 21:10:21.660 +00:00] Done, your server IP address is 165.217.136.43
+[2026-10-31 21:10:21.671 +00:00] Initializing game server...
+[2026-10-31 21:10:21.681 +00:00] Server starting at all IPv4 addresses and port 9015
+[2026-10-31 21:10:21.691 +00:00] Server starting at all IPv6 addresses and port 9015
+[2026-10-31 21:10:21.701 +00:00] Network sockets mode: Native
+[2026-10-31 21:10:22.860 +00:00] Loading cmd bindings...
+[2026-10-31 21:10:24.133 +00:00] [DEBUG_MAPGEN] Server has successfully generated a random seed: 1386943300
+[2026-10-31 21:10:24.585 +00:00] [DEBUG_MAPGEN] Sequence of procedural level generation completed.
+[2026-10-31 21:10:24.817 +00:00] [INFO] [Exiled.Loader] Found the smallest version of Exiled - Exiled.API:9.15.2
+[2026-10-31 21:10:25.159 +00:00] Scene Manager: Loaded scene 'Facility' [Assets/_Scenes/Facility.unity]
+[2026-10-31 21:10:25.178 +00:00] Level loaded. Creating match...
+[2026-10-31 21:10:25.229 +00:00] [INFO] [Exiled.Loader] No new versions found, you're using the most recent version of Exiled!
+[2026-10-31 21:10:25.378 +00:00] Generated random salt: fSt5Jez2sUjeyUyaVdcUQ91SJXoG8MKQ
+[2026-10-31 21:10:25.388 +00:00] Incoming connections will be no longer delayed.
+[2026-10-31 21:10:25.398 +00:00] Idle mode is now available.
+[2026-10-31 21:10:25.419 +00:00] Waiting for players...
+[2026-10-31 21:10:25.823 +00:00] Received first heartbeat. Silent crash detection is now active.
+[2026-10-31 21:10:27.202 +00:00] Your server won't be visible on the public server list - (165.217.136.43)
+[2026-10-31 21:10:27.212 +00:00] If you are 100% sure that the server is working, can be accessed from the Internet and YOU WANT TO MAKE IT PUBLIC, please set up your email in configuration file ("contact_email" value) and restart the server.
+[2026-10-31 21:10:55.385 +00:00] Server has entered the idle mode.
+[2026-10-31 21:16:21.446 +00:00] Refreshed public key of central server - key hash not changed.
+[2026-10-31 21:17:14.975 +00:00] >>> EXIT
