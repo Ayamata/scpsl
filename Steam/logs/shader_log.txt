@@ -1,32 +1,3 @@
-
-
-[2026-10-29 20:18:54] Client version: 1792617903
-[2026-10-29 20:18:54] Shader manager disabled due to running as steamcmd
-
-
-[2026-10-29 20:19:17] Client version: 1792617903
-[2026-10-29 20:19:17] Shader manager disabled due to running as steamcmd
-
-
-[2026-10-29 20:19:35] Client version: 1792617903
-[2026-10-29 20:19:35] Shader manager disabled due to running as steamcmd
-
-
-[2026-10-29 20:49:06] Client version: 1792617903
-[2026-10-29 20:49:06] Shader manager disabled due to running as steamcmd
-
-
-[2026-10-30 12:06:06] Client version: 1792617903
-[2026-10-30 12:06:06] Shader manager disabled due to running as steamcmd
-
-
-[2026-10-30 12:14:26] Client version: 1792617903
-[2026-10-30 12:14:26] Shader manager disabled due to running as steamcmd
-
-
-[2026-10-31 21:10:12] Client version: 1792617903
-[2026-10-31 21:10:12] Shader manager disabled due to running as steamcmd
-
-
-[2026-10-31 21:17:23] Client version: 1792617903
-[2026-10-31 21:17:23] Shader manager disabled due to running as steamcmd
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4553f9ee3a1796d3aea891d6ec0836ea52aba997c77f6c4c17ea0a89ea862fa
+size 1024

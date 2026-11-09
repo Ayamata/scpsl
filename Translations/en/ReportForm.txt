@@ -1,7 +1,3 @@
-Report Player
-Target:\nPlayer ID:\nDescription:
-Cancel
-Report for breaking server rules
-Report for cheating or raiding
-REPORTING
-Please wait...
+version https://git-lfs.github.com/spec/v1
+oid sha256:daa7c92807468800bc764a60b3e7b3178de441e98cb42dbef91dd845a73c7e37
+size 149

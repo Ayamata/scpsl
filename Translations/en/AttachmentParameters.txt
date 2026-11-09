@@ -1,24 +1,3 @@
-ADS zoom
----
-Damage
-Penetration
-Fire rate
-Recoil
-Recoil when aiming
-Bullet accuracy
-Hip-firing accuracy
-Aiming accuracy
-Equip time
-Gunshot loudness
-Magazine capacity
-Equip time
-Reload time
----
-Aiming speed
-Pellet spread
-Pattern consistency
-Projectiles number
-Reload speed
----
-Running accuracy
-Double-action speed
+version https://git-lfs.github.com/spec/v1
+oid sha256:fadec6d89c0802a47e848dbe9657830add4a8399f48b6333143c973eaeb6d21c
+size 335

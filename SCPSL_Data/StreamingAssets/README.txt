@@ -1,3 +1,3 @@
-Hey! This folder is necessary for FMOD. Its contents (except this file) are gitignored.
-
-FMOD moves assets from the project source (/FMOD in the root folder) to this folder (Assets/StreamingAssets) so that Unity can read them. As such, please don't delete this folder, even if it looks empty. Thank you!
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fd0ba9e9842466a93cd2fa579e410831d7eb8bc8bce4cb5f3cb2378bade61a4
+size 305

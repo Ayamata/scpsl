@@ -1,10 +1,3 @@
-<color=green>OPEN</color>
-<color=#07A2FF>CLOSED</color>
-<color=orange>MOVING</color>
-<color=red>LOCKDOWN</color>
-<color=red>ERROR</color>
-<color=red>ACCESS DENIED</color>
-<color=green>ACCESS GRANTED</color>
-<color=#07A2FF>KEYCARD REQUIRED</color>
-<color=orange>PLEASE PASS</color>
-<color=orange>CLOSING</color>
+version https://git-lfs.github.com/spec/v1
+oid sha256:197238b1c264e8393d5d2dd0c35ec3979e74e04fcad319e2e8b3e2a9e51a9e8e
+size 319

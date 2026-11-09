@@ -1,4 +1,3 @@
-<size=1800><color=red>DISABLED</color></size>
-<color=red><size=2000>PLEASE WAIT</size></color>
-<color=green><size=1800>READY</size></color>
-DETONATION INEVITABLE
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae67290126505d2a377ba7c06a0ef7cb13a8f0c7bc321518d4fe497adac8b20a
+size 164

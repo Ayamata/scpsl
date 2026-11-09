@@ -1,5 +1,3 @@
-Light Source
-Ammo Counter
-Flash Suppression
-Night Vision
-Buckshot
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bf2dd58ed3dc4f51870c4ad8034b9b6ad8bb348365833664e8b19b5104b26a9
+size 69

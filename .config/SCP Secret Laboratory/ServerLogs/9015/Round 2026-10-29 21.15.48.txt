@@ -1,17 +1,3 @@
-2026-10-29 21:15:48.816Z | Internal            | Game logic     | Started logging.
-2026-10-29 21:15:48.816Z | Internal            | Game logic     | Game version: 14.2.8.
-2026-10-29 21:15:48.816Z | Internal            | Game logic     | Build type: Release.
-2026-10-29 21:15:48.816Z | Internal            | Game logic     | Build timestamp: 2026-10-12 18:32:38Z.
-2026-10-29 21:15:48.816Z | Internal            | Game logic     | Headless: True.
-2026-10-29 21:15:54.764Z | Connection update   | Networking     | 76561199486078000@steam preauthenticated from endpoint 85.163.107.250:57339.
-2026-10-29 21:15:56.183Z | Connection update   | Networking     | 76561199444892781@steam preauthenticated from endpoint 93.106.2.121:31996.
-2026-10-29 21:16:00.962Z | Connection update   | Networking     | 76561199486078000@steam authenticated from endpoint 85.163.107.250:57339. Player ID assigned: 11. Auth token serial number: 9E2Wx49g-pPFgni23.
-2026-10-29 21:16:00.962Z | Connection update   | Networking     | Nickname of 76561199486078000@steam is now Playgui31.
-2026-10-29 21:16:00.963Z | Connection update   | Permissions    | Playgui31 (76561199486078000@steam) has been assigned to group Admin.
-2026-10-29 21:16:04.059Z | Connection update   | Networking     | 76561199444892781@steam authenticated from endpoint 93.106.2.121:31996. Player ID assigned: 12. Auth token serial number: mShDxkSU-1PCjRXDw.
-2026-10-29 21:16:04.059Z | Connection update   | Networking     | Nickname of 76561199444892781@steam is now Amaya.
-2026-10-29 21:16:04.059Z | Connection update   | Permissions    | Amaya (76561199444892781@steam) has been assigned to group Weirdo Owner.
-2026-10-29 21:17:37.855Z | Game Event          | Game logic     | Round has been started.
-2026-10-29 21:17:37.855Z | Remote Admin        | Administrative | Playgui31 (76561199486078000@steam) forced round start.
-2026-10-29 21:18:04.989Z | Remote Admin        | Administrative | SERVER CONSOLE stopped the server.
-2026-10-29 21:18:05.057Z | Kill                | Class change   | Playgui31 (76561199486078000@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8d700c62bcc314068446fc5a5b6babdbab0de50645dc33ea8e64bbc24834e65
+size 2159

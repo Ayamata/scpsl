@@ -1,5 +1,3 @@
-is_enabled: true
-debug: true
-is_items_enabled: true
-item_folder_path: '/home/container/.config/EXILED/Configs/FunnyPills'
-item_file_path: 'Funny_Pill.yml'
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccd72fb7b3412d8779a25f4703ee3ba48d3899939190430e687ef6392978aec6
+size 155

@@ -1,32 +1,3 @@
-is_enabled: true
-debug: false
-group_specific_sequences: true
-# Tags Configuration
-color_interval: 0.5
-ranks_with_r_tags:
-- 'owner'
-- 'coowner'
-- 'developer'
-- 'jrdev'
-- 'admin'
-- 'mod'
-- 'jrmod'
-- 'twitch'
-sequences:
-- 'red'
-- 'orange'
-- 'yellow'
-- 'lime'
-- 'green'
-- 'emerald'
-- 'cyan'
-- 'blue_green'
-- 'aqua'
-- 'blue'
-- 'indigo'
-- 'magenta'
-- 'pink'
-- 'crimson'
-- 'silver'
-- 'white'
-group_sequences: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c77026ba93b381564aad6e556c845a6f1f7c0cf66e8dd6991a4f7c3f668f1ab
+size 403

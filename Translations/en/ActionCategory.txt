@@ -1,8 +1,3 @@
-Gameplay
-Weapons
-Movement
-Hotkeys
-Comms
-System
-Unbindable
-SCP-079
+version https://git-lfs.github.com/spec/v1
+oid sha256:36f6e0d2a70cc8950ce55d7c7a56dc6e51b6caa846da93eb9bf7dc7dd453e8be
+size 74

@@ -1,7 +1,3 @@
-SCP Subjects
-Foundation Forces
-Chaos Insurgency
-Scientists
-Class-D Personnel
-Dead
-Unclassified
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef2cf7b885ec40991b7f3d92196387d0598c40ca2a4e67b5098edd9fc97c87ad
+size 100

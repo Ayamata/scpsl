@@ -1,27 +1,3 @@
-# Indicates whether this plugin is enabled.
-is_enabled: true
-debug: false
-# The hint that is shown when someone pickups a custom item.
-picked_up_hint:
-# The broadcast content
-  content: |-
-    You have picked up a {0}
-    {1}
-  # The broadcast duration
-  duration: 10
-  # The broadcast type
-  type: Normal
-  # Indicates whether the broadcast should be shown
-  show: true
-# The hint that is shown when someone selects a custom item.
-selected_hint:
-# The broadcast content
-  content: |-
-    You have selected a {0}
-    {1}
-  # The broadcast duration
-  duration: 5
-  # The broadcast type
-  type: Normal
-  # Indicates whether the broadcast should be shown
-  show: true
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d3a40732bd56e190d0624a791fddc6903af7c152353cceeea97e62854dbaa7b
+size 665

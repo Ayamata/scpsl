@@ -1,10 +1,3 @@
-is_enabled: true
-debug: false
-# Info side - Badge, CustomPlayerInfo, FirstAvailable
-mode: FirstAvailable
-# Overrides badge if exists
-badge_override: false
-# Overrides Custom Player Info if exists
-custom_player_info_override: false
-# Whether the plugin should ignore a player's DNT flag. By default (false), players with DNT flag will not be checked for credit tags.
-ignore_dnt_flag: false
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0cdc2893961d652a43edd0261e64e41cb954d4b166123ce16c8bc21690ac329
+size 389

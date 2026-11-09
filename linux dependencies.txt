@@ -1,2 +1,3 @@
-Please, install mono library from here:
-https://www.mono-project.com/download/stable/#download-lin
+version https://git-lfs.github.com/spec/v1
+oid sha256:00632811558f0631650210eae685dc01ac43adcc4f7860cb7276f98c0ea9571e
+size 101

@@ -1,7 +1,3 @@
-DECONTAMINATION PROCESS BEGINS IN
-PLEASE EXIT THE AREA
-!  PLEASE EVACUATE  !
-threat analysis in progress
-PREPARING SECURITY SYSTEMS
-systems ready to commence
-initializing procedure p-b-3
+version https://git-lfs.github.com/spec/v1
+oid sha256:9283a9f8d8df89853a4ebf6b3a80d4d22d1eaca02d7a79c05b9a9b760a4573fa
+size 192

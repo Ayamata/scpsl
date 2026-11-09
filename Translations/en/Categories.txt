@@ -1,10 +1,3 @@
-None
-Keycard
-Medical Items
-Radio
-Firearms
-Grenades
-SCP Items
-Special Weapons
-Ammo
-Body Armor
+version https://git-lfs.github.com/spec/v1
+oid sha256:11a1bba2317e0f55027412a894a79aad73de997ba4a2d68097aae3d5043d116f
+size 101

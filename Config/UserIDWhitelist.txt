@@ -1,1 +1,3 @@
-#Put one UserID (eg. 76561198071934271@steam or 274613382353518592@discord) per line. Lines prefixed with "#" are ignored.
+version https://git-lfs.github.com/spec/v1
+oid sha256:565ad4ac662be824f97541d353074095db5fbd97a519d6c9ff38013cf65941dd
+size 122

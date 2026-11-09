@@ -1,30 +1,3 @@
-The Sculpture
--
--
-The Old Man
--
-The Plague Doctor
--
-The Old AI
--
-The Shy Guy
-The Cured
--
--
--
--
--
-With Many Voices
-With Many Voices
--
--
--
--
--
-Wouldn't it be Chilly?
--
-Pink Flamingos
-Pink Flamingos
-Zombie Flamingos
-Blue Flamingos
-Green Flamingos
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b606122bf919eaa518e909ec56a2c531d282cbe4a42834170edb889f8c83eb1
+size 272
